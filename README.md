@@ -1,8 +1,6 @@
 # Awesome Content Creation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
 
-[<img src="https://res.cloudinary.com/iambeejayayo/image/upload/v1568670061/jamstack-full-logo.svg" alt="jamstack full logo" align="right" width="250">](https://jamstack.org)
-
-> Curated list of resources: books, videos, articles, speaker decks, tools about using the JAMstack.
+> Curated list of resources: books, videos, articles, speaker decks, tools about content creation.
 
 [JAMstack](https://jamstack.org/) is a Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup. <br />
 The JAMstack is not about specific technologies. It’s a new way of building websites and apps that delivers better performance, higher security, lower cost of scaling, and a better developer experience.
