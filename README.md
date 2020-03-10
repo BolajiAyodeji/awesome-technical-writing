@@ -2,23 +2,21 @@
 
 > Curated list of resources: books, videos, articles, speaker decks, tools about content creation.
 
-[JAMstack](https://jamstack.org/) is a Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup. <br />
-The JAMstack is not about specific technologies. It’s a new way of building websites and apps that delivers better performance, higher security, lower cost of scaling, and a better developer experience.
+Content creation is the process of generating topic ideas that appeal to your buyer persona, creating written or visual content around those ideas, and making that information accessible to your audience as a blog, video, infographic, or other format
 
 *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) list*
 
 ## Table of Contents
-- [Official Resources](#official-resources)
 - [Community](#community)
+- [Technical Writing](#technical-writing)
+- [Visuals](#visuals)
+- [Podcasts](#podcasts)
 - [Useful Tools](#useful-tools)
 - [Articles](#articles)
 - [Speaker Decks](#speaker-decks)
 - [Books](#books)
 - [Videos](#videos)
-- [Examples](#examples)
 
-## Official Resources
-* [Official Website](https://jamstack.org/)
 
 ## Community
 * [JAMstack_conf](https://jamstackconf.com/)
@@ -36,13 +34,12 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 
 * [Rise of the JAMstack - Mathias Biillman](https://www.youtube.com/watch?v=uWTMEDEPw8c)
 
-## Examples
-
 
 ## Contributing
 Found an awesome resource, article, blog, video, speaker deck etc.? Please send me a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
 
 ---
+
 **Check out my [blog](https://bolajiayodeji.com) or say *hi* on [Twitter](https://twitter.com/iambolajiayo).**
 
 ## License
