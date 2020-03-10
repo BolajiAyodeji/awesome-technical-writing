@@ -1,8 +1,8 @@
 # Awesome Technical Writing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Curated list of resources: books, videos, articles, speaker decks, tools about technical writing.
+![](https://repository-images.githubusercontent.com/208843661/aa3deb80-6311-11ea-9d41-b2cdbbde72a9)
 
-Content creation is the process of generating topic ideas that appeal to your buyer persona, creating written or visual content around those ideas, and making that information accessible to your audience as a blog, video, infographic, or other format ~ [Hubspot](https://blog.hubspot.com/marketing/content-creation)
+Technical writing is writing or drafting technical communication used in technical and occupational fields, such as computer hardware and software, engineering, chemistry, aeronautics, robotics, finance, medical, consumer electronics, biotechnology, and forestry. ~ [Wikepedia](https://en.wikipedia.org/wiki/Technical_writing)
 
 *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) list*
 
