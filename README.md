@@ -42,7 +42,6 @@ Technical writing is writing or drafting technical communication used in technic
 * [Technical Communication Techniques and Principles for Project Managers](https://ce.uwec.edu/programs/technical-communication-techniques-and-principles-project-managers/)
 
 ## Resources
-
 * [The Ultimate Guide to Content Creation](https://blog.hubspot.com/marketing/content-creation)
 * [How to Create Great Content: A Step-by-Step Guide to Content Marketing That Delivers Real Results](https://www.inc.com/jeff-haden/how-to-create-great-content-a-step-by-step-guide-to-content-marketing-that-delivers-real-results.html)
 * [9 Tips to Become the Best Content Creator in Your Industry](https://www.weidert.com/blog/tips-to-make-you-the-best-content-creator-in-your-industry)
@@ -52,9 +51,14 @@ Technical writing is writing or drafting technical communication used in technic
 * [15 Tips to Improve Your Technical Writing](https://thebestschools.org/magazine/technical-writing-tips/)
 * [How to Become a Technical Writer: A Beginner’s Guide](https://www.instructionalsolutions.com/blog/become-a-technical-writer)
 * [Introducing Google Season of Docs](https://bolajiayodeji.com/introducing-google-season-of-docs-ck27y4gzc007ocws12njwqpy2)
+* [How to start a software YouTube channel](https://www.freecodecamp.org/news/how-to-start-a-software-youtube-channel/)
+* [Starting a YouTube Channel as a Software Developer](https://www.claudiobernasconi.ch/2019/03/20/starting-a-youtube-channel-as-a-software-developer/0
+* [How to Create a Programming YouTube Channel - Lessons From 5 Years and 1 Million Subscribers](
 
 ## Videos
 * [Content Creation Strategies: How To Create Content Online](https://www.youtube.com/watch?v=APQoWEqezFc)
+* [How to start a coding YouTube channel (with tips from a bunch of successful creators!)](https://www.youtube.com/watch?v=AsTagX5tG4E)
+* [How To Start A Programming YouTube Channel With Coding Tutorials 360](https://www.youtube.com/watch?v=aeCRHv4XUPU)
   
 
 ## Useful Tools
