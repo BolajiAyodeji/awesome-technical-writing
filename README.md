@@ -17,11 +17,13 @@ Technical writing is writing or drafting technical communication used in technic
 - [Speaker Decks](#speaker-decks)
 - [Books](#books)
 - [Videos](#videos)
+- [Podcasts](#podcasts)
 - [Technical Writers to Follow](#technical-writers-to-follow)
 
 
 ## Community
 * [Hashnode](https://hashnode.com/)
+* [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
 * [Google's Season of Docs](https://developers.google.com/season-of-docs/)
 * [freeCodeCamp News](https://www.freecodecamp.org/news/)
 * [ycombinator News](https://news.ycombinator.com/)
@@ -30,10 +32,10 @@ Technical writing is writing or drafting technical communication used in technic
 * [Write the Docs ](https://www.writethedocs.org/)
 * [The Good Docs Project](https://thegooddocsproject.dev/)
 * [LinkedIn Technical Writing Community](https://www.linkedin.com/groups/13705342/)
-* [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
 * [Society for Technical Communication](https://www.stc.org/)
 * [LogRocket Blog](https://blog.logrocket.com/)
 * [Scotch](https://scotch.io/)
+* [The Manuscript Academy](https://manuscriptacademy.com/)
 
 
 ## Courses
@@ -70,6 +72,9 @@ Technical writing is writing or drafting technical communication used in technic
 * [How to start a coding YouTube channel (with tips from a bunch of successful creators!)](https://www.youtube.com/watch?v=AsTagX5tG4E)
 * [How To Start A Programming YouTube Channel With Coding Tutorials 360](https://www.youtube.com/watch?v=aeCRHv4XUPU)
   
+## Podcasts
+* [The Manuscript Podcast](https://brenobarreto.co/the-manuscript-podcast/) - the intersection of writing and the development of technology products.
+* [The Manuscript Academy Podcast](podcast) - interviews with agents and editors, how-to tips, and behind-the-scenes looks at the creation of the Academy.
 
 ## Useful Tools
 * [HackMD](https://hackmd.io/) - Real-time collaborate on technical documentation in markdown.
