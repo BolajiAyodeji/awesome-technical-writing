@@ -52,11 +52,14 @@ Technical writing is writing or drafting technical communication used in technic
 * [Becoming a Technical Writer at Google](https://developers.google.com/tech-writing/becoming)
 * [15 Tips to Improve Your Technical Writing](https://thebestschools.org/magazine/technical-writing-tips/)
 * [How to Become a Technical Writer: A Beginner’s Guide](https://www.instructionalsolutions.com/blog/become-a-technical-writer)
+* [How to Create Cover Images for Your Devblog Posts](https://townhall.hashnode.com/how-to-create-cover-images-for-your-devblog-posts-cjyo53edo000heys1p7iuylpw)
 * [Introducing Google Season of Docs](https://bolajiayodeji.com/introducing-google-season-of-docs-ck27y4gzc007ocws12njwqpy2)
 * [How to start a software YouTube channel](https://www.freecodecamp.org/news/how-to-start-a-software-youtube-channel/)
 * [Starting a YouTube Channel as a Software Developer](https://www.claudiobernasconi.ch/2019/03/20/starting-a-youtube-channel-as-a-software-developer/0)
 * [How to Create a Programming YouTube Channel - Lessons From 5 Years and 1 Million Subscribers](https://www.freecodecamp.org/news/how-to-start-a-software-youtube-channel-video-course/)
 * [Developers: The Why and How to Writing Technical Articles](https://www.freecodecamp.org/news/developers-the-why-and-how-to-writing-technical-articles-54e824789ef6/)
+* [How to Improve the SEO of Your Devblog Articles](https://townhall.hashnode.com/how-to-improve-the-seo-of-your-devblog-articles-cjz3u8lk3003gavs1l071dzoz)
+* [How to Improve the SEO of Your Devblog](https://townhall.hashnode.com/how-to-improve-the-seo-of-your-devblog-cjz191c0e00380ks1nbtpwh8f)
 
 ## Videos
 * [Content Creation Strategies: How To Create Content Online](https://www.youtube.com/watch?v=APQoWEqezFc)
@@ -71,8 +74,16 @@ Technical writing is writing or drafting technical communication used in technic
 * [Notion](https://notion.so) - The all-in-one workspace for your notes, tasks, wikis and databases
 
 ## Conferences
+* [Write the Docs Conferences](htt Coneps://www.writethedocs.org/conf/)
+* [The LavaCon Content Strategy Conference ](https://lavacon.org/)
+* [API the Docs](https://apithedocs.org/)
+* [Technical Communication UK Metro Conference](http://technicalcommunicationuk.com/)
+* [MadWorld](https://www.madcapsoftware.com/madworld-conferences/)
+* [WritersUA West Content Pro Conference](http://west.writersua.com/)
 
 ## Speaker Decks
+* [Effective Documentation: The Key to Open Source Growth](https://slides.com/bolajiayodeji/effective-oss-docs)
+* [Technical Writing for Non-Writers](https://speakerdeck.com/taroth21/technical-writing-for-non-writers)
 
 ## Books
 * [The Developer's Guide to Content Creation](https://www.developersguidetocontent.com/) - by Stephanie Morillo
