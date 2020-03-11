@@ -9,9 +9,9 @@ Technical writing is writing or drafting technical communication used in technic
 
 ## Table of Contents
 - [Community](#community)
-- [Courses](#courses) 
+- [Courses](#courses)
 - [Resources](#resources)
-- [Videos](#videos) 
+- [Videos](#videos)
 - [Useful Tools](#useful-tools)
 - [Conferences](#conferences)
 - [Speaker Decks](#speaker-decks)
@@ -79,10 +79,11 @@ Technical writing is writing or drafting technical communication used in technic
 * [What do Technical Writers do? (Also, what is Technical Writing?)](https://www.youtube.com/watch?v=biocrCx5T_k)
 * [How to become a Technical Writer | Skills & Career Growth](https://www.youtube.com/watch?v=8l2KJXIBpB0)
 * [Writing technical documentation](https://www.youtube.com/watch?v=a4L9GhldTHo)
-  
+
 ## Podcasts
 * [The Manuscript Podcast](https://brenobarreto.co/the-manuscript-podcast/) - The intersection of writing and the development of technology products.
 * [The Manuscript Academy Podcast](podcast) - Interviews with agents and editors, how-to tips, and behind-the-scenes looks at the creation of the Academy.
+* [Write the Docs Podcast](https://podcast.writethedocs.org/) - The Write the Docs Podcast publishes discussion-style podcasts focusing on topics related to the Write the Docs community.
 
 ## Useful Tools
 * [HackMD](https://hackmd.io/) - Real-time collaborate on technical documentation in markdown.
@@ -110,14 +111,25 @@ Technical writing is writing or drafting technical communication used in technic
 * [The Handbook of Technical Writing](https://www.amazon.com/gp/aw/d/1457675528/ref=cm_cr_arp_mb_bdcrb_top?ie=UTF8) - by Gerald J. Alre
 * [How To Write Usable User Documentation, 2nd Edition](https://www.amazon.com/How-Write-Usable-User-Documentation/dp/0897746392/ref=sr_1_1) - by Edmond H. Weiss
 * [Letting Go of the Words](https://www.goodreads.com/book/show/1135441.Letting_Go_of_the_Words) by Janice Redish
+* [Docs Like Code](https://www.amazon.com/Docs-Like-Code-Anne-Gentle/dp/1365816079) by Anne Gentle
+* [The Product is Docs](https://www.goodreads.com/book/show/37563319-the-product-is-docs) by Christopher Gales
+* [Every Page is Page One](https://www.amazon.com/Every-Page-One-Topic-Based-Communication/dp/1937434281) by Mark Baker
+
+## Style Guides
+* [Microsoft Manual of Style](https://ptgmedia.pearsoncmg.com/images/9780735648715/samplepages/9780735648715.pdf)
+* [IBM Editorial Style Guide](https://www.ibm.com/developerworks/library/styleguidelines/)
+* [The Red Hat Style Guide](https://stylepedia.net/style/)
+* [Google Developer Documentation Style Guide](https://developers.google.com/style/)
+
+
 
 <details>
   <summary>
-    
+
    ## Technical Writers to follow
-    
+
   </summary>
-  
+
 | Name              | Link to Blog                                                             | Blog Niche                       | Link to Twitter                                       |
 |-------------------|--------------------------------------------------------------------------|----------------------------------|-------------------------------------------------------|
 | Bolaji Ayodeji    | [https://bolajiayodeji.com](https://bolajiayodeji.com)                   | Web Development, JAMstack, A11y  | [@iambolajiayo](https://twitter.com/iambolajiayo)     |
