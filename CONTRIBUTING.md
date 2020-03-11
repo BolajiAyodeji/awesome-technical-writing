@@ -9,6 +9,7 @@ You'll need to have some basic experience with Git, Markdown and GitHub
   * [Introduction to GitHub](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
   * [Popular git commands and how to use them](https://rogerdudler.github.io/git-guide/)
   * [Git commands in depth](https://medium.com/@george.seif94/a-full-tutorial-on-how-to-use-github-88466bac7d42)
+  * [How to Create a Markdown Table](https://www.makeuseof.com/tag/create-markdown-table/)
 
 Ensure your pull request adheres to the following guidelines:
 
@@ -16,11 +17,11 @@ Ensure your pull request adheres to the following guidelines:
 - Make an individual pull request for each suggestion.
 - Use [title-casing](https://titlecaseconverter.com/) (AP style).
 - Use the following format: `[Title Case Name](link) - Description.`
-  > :information_source: [Articles](https://github.com/BolajiAyodeji/awesome-jamstack#articles) should use the `[Title Case Name](link)` format.
+  > :information_source: [Articles](https://github.com/BolajiAyodeji/awesome-technical-writing#resources) should use the `[Title Case Name](link)` format.
 - Keep descriptions short and simple, but descriptive.
 - Start the description with a capital and end with a full stop/period.
   > :information_source: You can use an emoji, only before the Title-Cased Description.
-- When adding to the `Examples` category, please add a link to the source code (if available)
+- When adding to the `Technical Writers to Follow` category, please a add their Blog and Twitter without breaking the table
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - New categories or improvements to the existing `table of contents` are welcome.
