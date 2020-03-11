@@ -75,7 +75,7 @@ Technical writing is writing or drafting technical communication used in technic
 * [Notion](https://notion.so) - The all-in-one workspace for your notes, tasks, wikis and databases
 
 ## Conferences
-* [Write the Docs Conferences](htt Coneps://www.writethedocs.org/conf/)
+* [Write the Docs Conferences](https://www.writethedocs.org/conf/)
 * [The LavaCon Content Strategy Conference ](https://lavacon.org/)
 * [API the Docs](https://apithedocs.org/)
 * [Technical Communication UK Metro Conference](http://technicalcommunicationuk.com/)
@@ -113,7 +113,7 @@ Technical writing is writing or drafting technical communication used in technic
  </details>
 
 ## Contributing
-Found an awesome resource, article, blog, video, speaker deck etc.? Please send me a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
+Found an awesome technical writer, resource, article, blog, tool,video, speaker deck etc.? Please send me a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
 
 
 ## Contributors ✨
