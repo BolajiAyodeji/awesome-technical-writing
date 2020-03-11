@@ -49,6 +49,7 @@ Technical writing is writing or drafting technical communication used in technic
 * [Technical Writing: Master Your Writing Career](https://www.udemy.com/technical-writing/)
 * [English 305: Advanced Technical Writing](https://study.com/academy/course/technical-writing-course.html)
 * [Technical Communication Techniques and Principles for Project Managers](https://ce.uwec.edu/programs/technical-communication-techniques-and-principles-project-managers/)
+* [Learn DITA](https://learningdita.com/)
 
 ## Resources
 * [The Ultimate Guide to Content Creation](https://blog.hubspot.com/marketing/content-creation)
