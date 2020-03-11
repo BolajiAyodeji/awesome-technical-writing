@@ -1,6 +1,6 @@
 # Awesome Technical Writing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-![](https://repository-images.githubusercontent.com/208843661/aa3deb80-6311-11ea-9d41-b2cdbbde72a9)
+![](https://repository-images.githubusercontent.com/221308953/36034800-6311-11ea-8418-8a1a03c97d81)
 
 Technical writing is writing or drafting technical communication used in technical and occupational fields, such as computer hardware and software, engineering, chemistry, aeronautics, robotics, finance, medical, consumer electronics, biotechnology, and forestry. ~ [Wikepedia](https://en.wikipedia.org/wiki/Technical_writing)
 
