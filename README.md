@@ -17,7 +17,7 @@ Technical writing is writing or drafting technical communication used in technic
 - [Speaker Decks](#speaker-decks)
 - [Books](#books)
 - [Videos](#videos)
-- [Technical Writers to follow](#technical-writers-to-follow)
+- [Technical Writers to Follow](#technical-writers-to-follow)
 
 
 ## Community
