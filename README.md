@@ -19,6 +19,7 @@ Technical writing is writing or drafting technical communication used in technic
 - [Videos](#videos)
 - [Podcasts](#podcasts)
 - [Style Guides](#style-guides)
+- [Blogs](#blogs)
 - [Technical Writers to Follow](#technical-writers-to-follow)
 
 
@@ -124,6 +125,11 @@ Technical writing is writing or drafting technical communication used in technic
 * [The Red Hat Style Guide](https://stylepedia.net/style/)
 * [Google Developer Documentation Style Guide](https://developers.google.com/style/)
 
+## Blogs
+* [FFeathers](https://ffeathers.wordpress.com/) by Sarah Maddox
+* [Info Texture](https://infotexture.net/) by Roger Sheen
+* [I'd Rather Be Writing](https://idratherbewriting.com/) by Tom Johnson
+* [Just Write Click](https://justwriteclick.com/about/) by Anne Gentle
 
 
 <details>
