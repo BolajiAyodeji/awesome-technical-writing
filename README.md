@@ -25,12 +25,15 @@ Technical writing is writing or drafting technical communication used in technic
 * [Google's Season of Docs](https://developers.google.com/season-of-docs/)
 * [freeCodeCamp News](https://www.freecodecamp.org/news/)
 * [ycombinator News](https://news.ycombinator.com/)
+* [DEV](https://dev.to/)
 * [Hackernoon](https://hackernoon.com/)
 * [Write the Docs ](https://www.writethedocs.org/)
 * [The Good Docs Project](https://thegooddocsproject.dev/)
 * [LinkedIn Technical Writing Community](https://www.linkedin.com/groups/13705342/)
 * [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
 * [Society for Technical Communication](https://www.stc.org/)
+* [LogRocket Blog](https://blog.logrocket.com/)
+* [Scotch](https://scotch.io/)
 
 
 ## Courses
