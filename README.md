@@ -16,6 +16,7 @@ Technical writing is writing or drafting technical communication used in technic
 - [Speaker Decks](#speaker-decks)
 - [Books](#books)
 - [Videos](#videos)
+- [Technical Writers to follow](#technical-writers-to-follow)
 
 
 ## Community
@@ -47,13 +48,15 @@ Technical writing is writing or drafting technical communication used in technic
 * [9 Tips to Become the Best Content Creator in Your Industry](https://www.weidert.com/blog/tips-to-make-you-the-best-content-creator-in-your-industry)
 * [Google developer documentation style guide](https://developers.google.com/style)
 * [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
+* [Advice for Technical Writing](https://css-tricks.com/advice-for-technical-writing/)
 * [Becoming a Technical Writer at Google](https://developers.google.com/tech-writing/becoming)
 * [15 Tips to Improve Your Technical Writing](https://thebestschools.org/magazine/technical-writing-tips/)
 * [How to Become a Technical Writer: A Beginner’s Guide](https://www.instructionalsolutions.com/blog/become-a-technical-writer)
 * [Introducing Google Season of Docs](https://bolajiayodeji.com/introducing-google-season-of-docs-ck27y4gzc007ocws12njwqpy2)
 * [How to start a software YouTube channel](https://www.freecodecamp.org/news/how-to-start-a-software-youtube-channel/)
 * [Starting a YouTube Channel as a Software Developer](https://www.claudiobernasconi.ch/2019/03/20/starting-a-youtube-channel-as-a-software-developer/0
-* [How to Create a Programming YouTube Channel - Lessons From 5 Years and 1 Million Subscribers](
+* [How to Create a Programming YouTube Channel - Lessons From 5 Years and 1 Million Subscribers](https://www.freecodecamp.org/news/how-to-start-a-software-youtube-channel-video-course/)
+* [Developers: The Why and How to Writing Technical Articles](https://www.freecodecamp.org/news/developers-the-why-and-how-to-writing-technical-articles-54e824789ef6/)
 
 ## Videos
 * [Content Creation Strategies: How To Create Content Online](https://www.youtube.com/watch?v=APQoWEqezFc)
@@ -80,6 +83,14 @@ Technical writing is writing or drafting technical communication used in technic
 * [How To Write Usable User Documentation, 2nd Edition](https://www.amazon.com/How-Write-Usable-User-Documentation/dp/0897746392/ref=sr_1_1) - by Edmond H. Weiss
 * [Letting Go of the Words](https://www.goodreads.com/book/show/1135441.Letting_Go_of_the_Words) by Janice Redish
 
+## Technical Writers to follow
+| Name              | Link to Blog                                                             | Link to Twitter                                                          |
+|-------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| Bolaji Ayodeji    | [https://bolajiayodeji.com](https://bolajiayodeji.com)                   | [@iambolajiayo](https://twitter.com/iambolajiayo)     |
+| Angie Jones       | [https://angiejones.tech/](https://angiejones.tech/)                     | [@techgirl1908](https://twitter.com/techgirl1908)     |
+| Sarah Drasner     | [https://sarah.dev/writing](https://sarah.dev/writing)                   | [@sarah_edo](https://twitter.com/sarah_edo)           |
+| Prosper Otemuyiwa | [https://medium.com/@unicodeveloper](https://medium.com/@unicodeveloper) | [@unicodeveloper](https://twitter.com/unicodeveloper) |
+| Ire Aderinokun    | [https://bitsofco.de/](https://bitsofco.de/)                             | [@ireaderinokun](https://twitter.com/ireaderinokun)   |
 
 ## Contributing
 Found an awesome resource, article, blog, video, speaker deck etc.? Please send me a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
