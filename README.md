@@ -69,10 +69,10 @@ Technical writing is writing or drafting technical communication used in technic
   
 
 ## Useful Tools
-* [HackMD](https://hackmd.io/) - Real-time collaborate on technical documentation in markdown
-* [Dropbox Paper](https://www.dropbox.com/paper) - A flexible workspace forcollaborative document-editing
+* [HackMD](https://hackmd.io/) - Real-time collaborate on technical documentation in markdown.
+* [Dropbox Paper](https://www.dropbox.com/paper) - A flexible workspace forcollaborative document-editing.
 * [Google Docs](https://docs.google.com/) - Smart editing and styling tools to help you easily format text and paragraphs.
-* [Notion](https://notion.so) - The all-in-one workspace for your notes, tasks, wikis and databases
+* [Notion](https://notion.so) - The all-in-one workspace for your notes, tasks, wikis and databases.
 
 ## Conferences
 * [Write the Docs Conferences](https://www.writethedocs.org/conf/)
