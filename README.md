@@ -118,13 +118,13 @@ Technical writing is writing or drafting technical communication used in technic
     
   </summary>
   
-| Name              | Link to Blog                                                             | Link to Twitter                                                          |
-|-------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| Bolaji Ayodeji    | [https://bolajiayodeji.com](https://bolajiayodeji.com)                   | [@iambolajiayo](https://twitter.com/iambolajiayo)     |
-| Angie Jones       | [https://angiejones.tech/](https://angiejones.tech/)                     | [@techgirl1908](https://twitter.com/techgirl1908)     |
-| Sarah Drasner     | [https://sarah.dev/writing](https://sarah.dev/writing)                   | [@sarah_edo](https://twitter.com/sarah_edo)           |
-| Prosper Otemuyiwa | [https://medium.com/@unicodeveloper](https://medium.com/@unicodeveloper) | [@unicodeveloper](https://twitter.com/unicodeveloper) |
-| Ire Aderinokun    | [https://bitsofco.de/](https://bitsofco.de/)                             | [@ireaderinokun](https://twitter.com/ireaderinokun)   |
+| Name              | Link to Blog                                                             | Blog Niche                       | Link to Twitter                                       |
+|-------------------|--------------------------------------------------------------------------|----------------------------------|-------------------------------------------------------|
+| Bolaji Ayodeji    | [https://bolajiayodeji.com](https://bolajiayodeji.com)                   | Web Development, JAMstack, A11y  | [@iambolajiayo](https://twitter.com/iambolajiayo)     |
+| Angie Jones       | [https://angiejones.tech](https://angiejones.tech/)                      | Test Automation, Java            | [@techgirl1908](https://twitter.com/techgirl1908)     |
+| Sarah Drasner     | [https://sarah.dev/writing](https://sarah.dev/writing)                   | Web Development, Vuejs, SVGs     | [@sarah_edo](https://twitter.com/sarah_edo)           |
+| Prosper Otemuyiwa | [https://medium.com/@unicodeveloper](https://medium.com/@unicodeveloper) | All things Technical & Magical   | [@unicodeveloper](https://twitter.com/unicodeveloper) |
+| Ire Aderinokun    | [https://bitsofco.de/](https://bitsofco.de/)                             | Frontend Development, JavaScript | [@ireaderinokun](https://twitter.com/ireaderinokun)   |
 
  </details>
 
