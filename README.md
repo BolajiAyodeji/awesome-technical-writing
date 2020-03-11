@@ -1,4 +1,7 @@
 # Awesome Technical Writing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![](https://repository-images.githubusercontent.com/221308953/36034800-6311-11ea-8418-8a1a03c97d81)
 
@@ -122,3 +125,16 @@ Found an awesome resource, article, blog, video, speaker deck etc.? Please send 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Contributors ✨
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://www.patreon.com/bolajiayodeji"><img src="https://avatars2.githubusercontent.com/u/30334776?v=4" width="100px;" alt=""/><br /><sub><b>Bolaji Ayodeji</b></sub></a><br /><a href="#content-BolajiAyodeji" title="Content">🖋</a> <a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=BolajiAyodeji" title="Documentation">📖</a> <a href="#design-BolajiAyodeji" title="Design">🎨</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
