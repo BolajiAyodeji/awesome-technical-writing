@@ -18,8 +18,13 @@ Technical writing is writing or drafting technical communication used in technic
 - [Videos](#videos)
 - [Technical Writers to follow](#technical-writers-to-follow)
 
-
-## Community
+<details>
+  <summary>
+    
+   ## Community
+    
+  </summary>
+  
 * [Hashnode](https://hashnode.com/)
 * [Google's Season of Docs](https://developers.google.com/season-of-docs/)
 * [freeCodeCamp News](https://www.freecodecamp.org/news/)
@@ -31,8 +36,15 @@ Technical writing is writing or drafting technical communication used in technic
 * [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
 * [Society for Technical Communication](https://www.stc.org/)
 
+  </details>
 
-## Courses
+<details>
+  <summary>
+    
+   ## Courses
+    
+  </summary>
+
 * [Study technical writing](https://developers.google.com/tech-writing/overview)
 * [Technical Writing: Documentation on Software Projects](https://www.pluralsight.com/courses/technical-writing-software-documentation)
 * [Coding for Writers: Basic Programming](https://www.udemy.com/course/coding-for-writers-1-basic-programming/)
@@ -42,7 +54,15 @@ Technical writing is writing or drafting technical communication used in technic
 * [English 305: Advanced Technical Writing](https://study.com/academy/course/technical-writing-course.html)
 * [Technical Communication Techniques and Principles for Project Managers](https://ce.uwec.edu/programs/technical-communication-techniques-and-principles-project-managers/)
 
-## Resources
+ </details>
+
+<details>
+  <summary>
+    
+   ## Resources
+    
+  </summary>
+  
 * [The Ultimate Guide to Content Creation](https://blog.hubspot.com/marketing/content-creation)
 * [How to Create Great Content: A Step-by-Step Guide to Content Marketing That Delivers Real Results](https://www.inc.com/jeff-haden/how-to-create-great-content-a-step-by-step-guide-to-content-marketing-that-delivers-real-results.html)
 * [9 Tips to Become the Best Content Creator in Your Industry](https://www.weidert.com/blog/tips-to-make-you-the-best-content-creator-in-your-industry)
@@ -58,23 +78,60 @@ Technical writing is writing or drafting technical communication used in technic
 * [How to Create a Programming YouTube Channel - Lessons From 5 Years and 1 Million Subscribers](https://www.freecodecamp.org/news/how-to-start-a-software-youtube-channel-video-course/)
 * [Developers: The Why and How to Writing Technical Articles](https://www.freecodecamp.org/news/developers-the-why-and-how-to-writing-technical-articles-54e824789ef6/)
 
-## Videos
+ </details>
+
+<details>
+  <summary>
+    
+   ## Videos
+    
+  </summary>
+  
 * [Content Creation Strategies: How To Create Content Online](https://www.youtube.com/watch?v=APQoWEqezFc)
 * [How to start a coding YouTube channel (with tips from a bunch of successful creators!)](https://www.youtube.com/watch?v=AsTagX5tG4E)
 * [How To Start A Programming YouTube Channel With Coding Tutorials 360](https://www.youtube.com/watch?v=aeCRHv4XUPU)
-  
 
-## Useful Tools
+ </details>
+  
+<details>
+  <summary>
+    
+   ## Useful Tools
+    
+  </summary>
+  
 * [HackMD](https://hackmd.io/) - Real-time collaborate on technical documentation in markdown
 * [Dropbox Paper](https://www.dropbox.com/paper) - A flexible workspace forcollaborative document-editing
 * [Google Docs](https://docs.google.com/) - Smart editing and styling tools to help you easily format text and paragraphs.
 * [Notion](https://notion.so) - The all-in-one workspace for your notes, tasks, wikis and databases
 
-## Conferences
+ </details>
 
-## Speaker Decks
+<details>
+  <summary>
+    
+   ## Conferences
+    
+  </summary>
+  
+ </details>
 
-## Books
+<details>
+  <summary>
+    
+   ## Speaker Decks
+    
+  </summary>
+  
+ </details>
+ 
+<details>
+  <summary>
+    
+   ## Books
+    
+  </summary>
+  
 * [The Developer's Guide to Content Creation](https://www.developersguidetocontent.com/) - by Stephanie Morillo
 * [The Developer's Guide to Creating a Successful Blog](https://gumroad.com/l/successfulblog) - by  Flavio Copes
 * [Everybody Writes](https://www.goodreads.com/book/show/23001125-everybody-writes) - by Ann Handley
@@ -83,7 +140,15 @@ Technical writing is writing or drafting technical communication used in technic
 * [How To Write Usable User Documentation, 2nd Edition](https://www.amazon.com/How-Write-Usable-User-Documentation/dp/0897746392/ref=sr_1_1) - by Edmond H. Weiss
 * [Letting Go of the Words](https://www.goodreads.com/book/show/1135441.Letting_Go_of_the_Words) by Janice Redish
 
-## Technical Writers to follow
+ </details>
+
+<details>
+  <summary>
+    
+   ## Technical Writers to follow
+    
+  </summary>
+  
 | Name              | Link to Blog                                                             | Link to Twitter                                                          |
 |-------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
 | Bolaji Ayodeji    | [https://bolajiayodeji.com](https://bolajiayodeji.com)                   | [@iambolajiayo](https://twitter.com/iambolajiayo)     |
@@ -91,6 +156,8 @@ Technical writing is writing or drafting technical communication used in technic
 | Sarah Drasner     | [https://sarah.dev/writing](https://sarah.dev/writing)                   | [@sarah_edo](https://twitter.com/sarah_edo)           |
 | Prosper Otemuyiwa | [https://medium.com/@unicodeveloper](https://medium.com/@unicodeveloper) | [@unicodeveloper](https://twitter.com/unicodeveloper) |
 | Ire Aderinokun    | [https://bitsofco.de/](https://bitsofco.de/)                             | [@ireaderinokun](https://twitter.com/ireaderinokun)   |
+
+ </details>
 
 ## Contributing
 Found an awesome resource, article, blog, video, speaker deck etc.? Please send me a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
