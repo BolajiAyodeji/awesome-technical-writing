@@ -66,15 +66,23 @@ Technical writing is writing or drafting technical communication used in technic
 * [Developers: The Why and How to Writing Technical Articles](https://www.freecodecamp.org/news/developers-the-why-and-how-to-writing-technical-articles-54e824789ef6/)
 * [How to Improve the SEO of Your Devblog Articles](https://townhall.hashnode.com/how-to-improve-the-seo-of-your-devblog-articles-cjz3u8lk3003gavs1l071dzoz)
 * [How to Improve the SEO of Your Devblog](https://townhall.hashnode.com/how-to-improve-the-seo-of-your-devblog-cjz191c0e00380ks1nbtpwh8f)
+* [Technical Writing: Why and How?](https://medium.com/the-andela-way/technical-writing-why-and-how-599f18477cef)
 
 ## Videos
 * [Content Creation Strategies: How To Create Content Online](https://www.youtube.com/watch?v=APQoWEqezFc)
 * [How to start a coding YouTube channel (with tips from a bunch of successful creators!)](https://www.youtube.com/watch?v=AsTagX5tG4E)
 * [How To Start A Programming YouTube Channel With Coding Tutorials 360](https://www.youtube.com/watch?v=aeCRHv4XUPU)
+* [15 Technical Writing Tips](https://www.youtube.com/watch?v=Lw4TKCsIumQ)
+* [What is Technical Writing? | Writing Genre Fundamentals](https://www.youtube.com/watch?v=9SB4tfD0hxM)
+* [Meet Technical Writers at Google](https://www.youtube.com/watch?v=qnnkAWP55Ww)
+* [Technical Writing 101: Introduction to Technical Writing](https://www.youtube.com/watch?v=LTDsgd0ytbE&list=PL9RLbEIB-lv-bRTz14iEK4YSxRzxLQfdx)
+* [What do Technical Writers do? (Also, what is Technical Writing?)](https://www.youtube.com/watch?v=biocrCx5T_k)
+* [How to become a Technical Writer | Skills & Career Growth](https://www.youtube.com/watch?v=8l2KJXIBpB0)
+* [Writing technical documentation](https://www.youtube.com/watch?v=a4L9GhldTHo)
   
 ## Podcasts
-* [The Manuscript Podcast](https://brenobarreto.co/the-manuscript-podcast/) - the intersection of writing and the development of technology products.
-* [The Manuscript Academy Podcast](podcast) - interviews with agents and editors, how-to tips, and behind-the-scenes looks at the creation of the Academy.
+* [The Manuscript Podcast](https://brenobarreto.co/the-manuscript-podcast/) - The intersection of writing and the development of technology products.
+* [The Manuscript Academy Podcast](podcast) - Interviews with agents and editors, how-to tips, and behind-the-scenes looks at the creation of the Academy.
 
 ## Useful Tools
 * [HackMD](https://hackmd.io/) - Real-time collaborate on technical documentation in markdown.
