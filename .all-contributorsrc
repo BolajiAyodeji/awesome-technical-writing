@@ -15,6 +15,15 @@
         "doc",
         "design"
       ]
+    },
+    {
+      "login": "prachford",
+      "name": "prachford",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/59001653?v=4",
+      "profile": "https://github.com/prachford",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
