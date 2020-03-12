@@ -9,16 +9,18 @@
 
 ## Table of Contents
 - [Community](#community)
-- [Courses](#courses) 
+- [Courses](#courses)
 - [Resources](#resources)
-- [Videos](#videos) 
+- [Videos](#videos)
 - [Useful Tools](#useful-tools)
 - [Conferences](#conferences)
 - [Speaker Decks](#speaker-decks)
 - [Books](#books)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
+- [Style Guides](#style-guides)
 - [Technical Writers to Follow](#technical-writers-to-follow)
+
 
 
 ## Community
@@ -47,13 +49,12 @@
 * [Technical Writing: Master Your Writing Career](https://www.udemy.com/technical-writing/)
 * [English 305: Advanced Technical Writing](https://study.com/academy/course/technical-writing-course.html)
 * [Technical Communication Techniques and Principles for Project Managers](https://ce.uwec.edu/programs/technical-communication-techniques-and-principles-project-managers/)
+* [Learn DITA](https://learningdita.com/)
 
 ## Resources
 * [The Ultimate Guide to Content Creation](https://blog.hubspot.com/marketing/content-creation)
 * [How to Create Great Content: A Step-by-Step Guide to Content Marketing That Delivers Real Results](https://www.inc.com/jeff-haden/how-to-create-great-content-a-step-by-step-guide-to-content-marketing-that-delivers-real-results.html)
 * [9 Tips to Become the Best Content Creator in Your Industry](https://www.weidert.com/blog/tips-to-make-you-the-best-content-creator-in-your-industry)
-* [Google developer documentation style guide](https://developers.google.com/style)
-* [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
 * [Advice for Technical Writing](https://css-tricks.com/advice-for-technical-writing/)
 * [Becoming a Technical Writer at Google](https://developers.google.com/tech-writing/becoming)
 * [15 Tips to Improve Your Technical Writing](https://thebestschools.org/magazine/technical-writing-tips/)
@@ -67,6 +68,7 @@
 * [How to Improve the SEO of Your Devblog Articles](https://townhall.hashnode.com/how-to-improve-the-seo-of-your-devblog-articles-cjz3u8lk3003gavs1l071dzoz)
 * [How to Improve the SEO of Your Devblog](https://townhall.hashnode.com/how-to-improve-the-seo-of-your-devblog-cjz191c0e00380ks1nbtpwh8f)
 * [Technical Writing: Why and How?](https://medium.com/the-andela-way/technical-writing-why-and-how-599f18477cef)
+* [Minimalist Approach to Technical Documentation](https://www.utwente.nl/en/bms/ist/minimalism/)
 
 ## Videos
 * [Content Creation Strategies: How To Create Content Online](https://www.youtube.com/watch?v=APQoWEqezFc)
@@ -79,14 +81,15 @@
 * [What do Technical Writers do? (Also, what is Technical Writing?)](https://www.youtube.com/watch?v=biocrCx5T_k)
 * [How to become a Technical Writer | Skills & Career Growth](https://www.youtube.com/watch?v=8l2KJXIBpB0)
 * [Writing technical documentation](https://www.youtube.com/watch?v=a4L9GhldTHo)
-  
+
 ## Podcasts
 * [The Manuscript Podcast](https://brenobarreto.co/the-manuscript-podcast/) - The intersection of writing and the development of technology products.
 * [The Manuscript Academy Podcast](podcast) - Interviews with agents and editors, how-to tips, and behind-the-scenes looks at the creation of the Academy.
+* [Write the Docs Podcast](https://podcast.writethedocs.org/) - The Write the Docs Podcast publishes discussion-style podcasts focusing on topics related to the Write the Docs community.
 
 ## Useful Tools
 * [HackMD](https://hackmd.io/) - Real-time collaborate on technical documentation in markdown.
-* [Dropbox Paper](https://www.dropbox.com/paper) - A flexible workspace forcollaborative document-editing.
+* [Dropbox Paper](https://www.dropbox.com/paper) - A flexible workspace for collaborative document-editing.
 * [Google Docs](https://docs.google.com/) - Smart editing and styling tools to help you easily format text and paragraphs.
 * [Notion](https://notion.so) - The all-in-one workspace for your notes, tasks, wikis and databases.
 
@@ -110,14 +113,23 @@
 * [The Handbook of Technical Writing](https://www.amazon.com/gp/aw/d/1457675528/ref=cm_cr_arp_mb_bdcrb_top?ie=UTF8) - by Gerald J. Alre
 * [How To Write Usable User Documentation, 2nd Edition](https://www.amazon.com/How-Write-Usable-User-Documentation/dp/0897746392/ref=sr_1_1) - by Edmond H. Weiss
 * [Letting Go of the Words](https://www.goodreads.com/book/show/1135441.Letting_Go_of_the_Words) by Janice Redish
+* [Docs Like Code](https://www.amazon.com/Docs-Like-Code-Anne-Gentle/dp/1365816079) by Anne Gentle
+* [The Product is Docs](https://www.goodreads.com/book/show/37563319-the-product-is-docs) by Christopher Gales
+* [Every Page is Page One](https://www.amazon.com/Every-Page-One-Topic-Based-Communication/dp/1937434281) by Mark Baker
+
+## Style Guides
+* [Microsoft Manual of Style](https://ptgmedia.pearsoncmg.com/images/9780735648715/samplepages/9780735648715.pdf)
+* [IBM Editorial Style Guide](https://www.ibm.com/developerworks/library/styleguidelines/)
+* [The Red Hat Style Guide](https://stylepedia.net/style/)
+* [Google Developer Documentation Style Guide](https://developers.google.com/style/)
 
 <details>
   <summary>
-    
+
    ## Technical Writers to follow
-    
+
   </summary>
-  
+
 | Name              | Link to Blog                                                             | Blog Niche                       | Link to Twitter                                       |
 |-------------------|--------------------------------------------------------------------------|----------------------------------|-------------------------------------------------------|
 | Bolaji Ayodeji    | [https://bolajiayodeji.com](https://bolajiayodeji.com)                   | Web Development, JAMstack, A11y  | [@iambolajiayo](https://twitter.com/iambolajiayo)     |
@@ -125,11 +137,14 @@
 | Sarah Drasner     | [https://sarah.dev/writing](https://sarah.dev/writing)                   | Web Development, Vuejs, SVGs     | [@sarah_edo](https://twitter.com/sarah_edo)           |
 | Prosper Otemuyiwa | [https://medium.com/@unicodeveloper](https://medium.com/@unicodeveloper) | All things Technical & Magical   | [@unicodeveloper](https://twitter.com/unicodeveloper) |
 | Ire Aderinokun    | [https://bitsofco.de/](https://bitsofco.de/)                             | Frontend Development, JavaScript | [@ireaderinokun](https://twitter.com/ireaderinokun)   |
+| Tom Johnson       | [https://idratherbewriting.com/]                                         | Technical Writing and API lessons| [@tomjohnson](https://twitter.com/tomjohnson)         |
+| Anne Gentle       | [https://justwriteclick.com/about/]                                      | Doc as Code                      | [@annegentle](https://twitter.com/annegentle)         |
+| Kayce Basques     | [https://kayce.basqu.es/blog]                                            | Dev tools and Documentation      | [@kaycebasques](https://twitter.com/kaycebasques)     |
 
  </details>
 
 ## Contributing
-Found an awesome technical writer, resource, article, blog, tool,video, speaker deck etc.? Please send me a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
+Found an awesome technical writer, resource, article, blog, tool, video, speaker deck etc.? Please send me a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
 
 
 ## Contributors ✨
