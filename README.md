@@ -19,7 +19,6 @@ Technical writing is writing or drafting technical communication used in technic
 - [Videos](#videos)
 - [Podcasts](#podcasts)
 - [Style Guides](#style-guides)
-- [Blogs](#blogs)
 - [Technical Writers to Follow](#technical-writers-to-follow)
 
 
@@ -56,8 +55,6 @@ Technical writing is writing or drafting technical communication used in technic
 * [The Ultimate Guide to Content Creation](https://blog.hubspot.com/marketing/content-creation)
 * [How to Create Great Content: A Step-by-Step Guide to Content Marketing That Delivers Real Results](https://www.inc.com/jeff-haden/how-to-create-great-content-a-step-by-step-guide-to-content-marketing-that-delivers-real-results.html)
 * [9 Tips to Become the Best Content Creator in Your Industry](https://www.weidert.com/blog/tips-to-make-you-the-best-content-creator-in-your-industry)
-* [Google developer documentation style guide](https://developers.google.com/style)
-* [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
 * [Advice for Technical Writing](https://css-tricks.com/advice-for-technical-writing/)
 * [Becoming a Technical Writer at Google](https://developers.google.com/tech-writing/becoming)
 * [15 Tips to Improve Your Technical Writing](https://thebestschools.org/magazine/technical-writing-tips/)
@@ -71,6 +68,7 @@ Technical writing is writing or drafting technical communication used in technic
 * [How to Improve the SEO of Your Devblog Articles](https://townhall.hashnode.com/how-to-improve-the-seo-of-your-devblog-articles-cjz3u8lk3003gavs1l071dzoz)
 * [How to Improve the SEO of Your Devblog](https://townhall.hashnode.com/how-to-improve-the-seo-of-your-devblog-cjz191c0e00380ks1nbtpwh8f)
 * [Technical Writing: Why and How?](https://medium.com/the-andela-way/technical-writing-why-and-how-599f18477cef)
+* [Minimalist Approach to Technical Documentation](https://www.utwente.nl/en/bms/ist/minimalism/)
 
 ## Videos
 * [Content Creation Strategies: How To Create Content Online](https://www.youtube.com/watch?v=APQoWEqezFc)
@@ -91,7 +89,7 @@ Technical writing is writing or drafting technical communication used in technic
 
 ## Useful Tools
 * [HackMD](https://hackmd.io/) - Real-time collaborate on technical documentation in markdown.
-* [Dropbox Paper](https://www.dropbox.com/paper) - A flexible workspace forcollaborative document-editing.
+* [Dropbox Paper](https://www.dropbox.com/paper) - A flexible workspace for collaborative document-editing.
 * [Google Docs](https://docs.google.com/) - Smart editing and styling tools to help you easily format text and paragraphs.
 * [Notion](https://notion.so) - The all-in-one workspace for your notes, tasks, wikis and databases.
 
@@ -125,13 +123,6 @@ Technical writing is writing or drafting technical communication used in technic
 * [The Red Hat Style Guide](https://stylepedia.net/style/)
 * [Google Developer Documentation Style Guide](https://developers.google.com/style/)
 
-## Blogs
-* [FFeathers](https://ffeathers.wordpress.com/) by Sarah Maddox
-* [Info Texture](https://infotexture.net/) by Roger Sheen
-* [I'd Rather Be Writing](https://idratherbewriting.com/) by Tom Johnson
-* [Just Write Click](https://justwriteclick.com/about/) by Anne Gentle
-
-
 <details>
   <summary>
 
@@ -146,11 +137,14 @@ Technical writing is writing or drafting technical communication used in technic
 | Sarah Drasner     | [https://sarah.dev/writing](https://sarah.dev/writing)                   | Web Development, Vuejs, SVGs     | [@sarah_edo](https://twitter.com/sarah_edo)           |
 | Prosper Otemuyiwa | [https://medium.com/@unicodeveloper](https://medium.com/@unicodeveloper) | All things Technical & Magical   | [@unicodeveloper](https://twitter.com/unicodeveloper) |
 | Ire Aderinokun    | [https://bitsofco.de/](https://bitsofco.de/)                             | Frontend Development, JavaScript | [@ireaderinokun](https://twitter.com/ireaderinokun)   |
+| Tom Johnson       | [https://idratherbewriting.com/]                                         | Technical Writing and API lessons| [@tomjohnson](https://twitter.com/tomjohnson)         |
+| Anne Gentle       | [https://justwriteclick.com/about/]                                      | Doc as Code                      | [@annegentle](https://twitter.com/annegentle)         |
+| Kayce Basques     | [https://kayce.basqu.es/blog]                                            | Dev tools and Documentation      | [@kaycebasques](https://twitter.com/kaycebasques)     |
 
  </details>
 
 ## Contributing
-Found an awesome technical writer, resource, article, blog, tool,video, speaker deck etc.? Please send me a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
+Found an awesome technical writer, resource, article, blog, tool, video, speaker deck etc.? Please send me a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
 
 
 ## Contributors ✨
