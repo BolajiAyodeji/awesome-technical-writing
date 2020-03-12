@@ -135,7 +135,7 @@
 | Name              | Link to Blog                                                             | Blog Niche                       | Link to Twitter                                       |
 |-------------------|--------------------------------------------------------------------------|----------------------------------|-------------------------------------------------------|
 | Bolaji Ayodeji    | https://bolajiayodeji.com                   | Web Development, JAMstack, A11y  | [@iambolajiayo](https://twitter.com/iambolajiayo)     |
-| Angie Jones       | https://angiejones.tech/)                      | Test Automation, Java            | [@techgirl1908](https://twitter.com/techgirl1908)     |
+| Angie Jones       | https://angiejones.tech                      | Test Automation, Java            | [@techgirl1908](https://twitter.com/techgirl1908)     |
 | Sarah Drasner     | https://sarah.dev/writing                  | Web Development, Vuejs, SVGs     | [@sarah_edo](https://twitter.com/sarah_edo)           |
 | Prosper Otemuyiwa | https://medium.com/@unicodeveloper | All things Technical & Magical   | [@unicodeveloper](https://twitter.com/unicodeveloper) |
 | Ire Aderinokun    | https://bitsofco.de                             | Frontend Development, JavaScript | [@ireaderinokun](https://twitter.com/ireaderinokun)   |
