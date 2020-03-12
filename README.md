@@ -1,4 +1,5 @@
-# Awesome Technical Writing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+# Awesome Technical Writing
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
@@ -133,14 +134,14 @@
 
 | Name              | Link to Blog                                                             | Blog Niche                       | Link to Twitter                                       |
 |-------------------|--------------------------------------------------------------------------|----------------------------------|-------------------------------------------------------|
-| Bolaji Ayodeji    | [https://bolajiayodeji.com](https://bolajiayodeji.com)                   | Web Development, JAMstack, A11y  | [@iambolajiayo](https://twitter.com/iambolajiayo)     |
-| Angie Jones       | [https://angiejones.tech](https://angiejones.tech/)                      | Test Automation, Java            | [@techgirl1908](https://twitter.com/techgirl1908)     |
-| Sarah Drasner     | [https://sarah.dev/writing](https://sarah.dev/writing)                   | Web Development, Vuejs, SVGs     | [@sarah_edo](https://twitter.com/sarah_edo)           |
-| Prosper Otemuyiwa | [https://medium.com/@unicodeveloper](https://medium.com/@unicodeveloper) | All things Technical & Magical   | [@unicodeveloper](https://twitter.com/unicodeveloper) |
-| Ire Aderinokun    | [https://bitsofco.de/](https://bitsofco.de/)                             | Frontend Development, JavaScript | [@ireaderinokun](https://twitter.com/ireaderinokun)   |
-| Tom Johnson       | [https://idratherbewriting.com/]                                         | Technical Writing and API lessons| [@tomjohnson](https://twitter.com/tomjohnson)         |
-| Anne Gentle       | [https://justwriteclick.com/about/]                                      | Doc as Code                      | [@annegentle](https://twitter.com/annegentle)         |
-| Kayce Basques     | [https://kayce.basqu.es/blog]                                            | Dev tools and Documentation      | [@kaycebasques](https://twitter.com/kaycebasques)     |
+| Bolaji Ayodeji    | https://bolajiayodeji.com                   | Web Development, JAMstack, A11y  | [@iambolajiayo](https://twitter.com/iambolajiayo)     |
+| Angie Jones       | https://angiejones.tech/)                      | Test Automation, Java            | [@techgirl1908](https://twitter.com/techgirl1908)     |
+| Sarah Drasner     | https://sarah.dev/writing                  | Web Development, Vuejs, SVGs     | [@sarah_edo](https://twitter.com/sarah_edo)           |
+| Prosper Otemuyiwa | https://medium.com/@unicodeveloper | All things Technical & Magical   | [@unicodeveloper](https://twitter.com/unicodeveloper) |
+| Ire Aderinokun    | https://bitsofco.de                             | Frontend Development, JavaScript | [@ireaderinokun](https://twitter.com/ireaderinokun)   |
+| Tom Johnson       | https://idratherbewriting.com                                         | Technical Writing and API lessons| [@tomjohnson](https://twitter.com/tomjohnson)         |
+| Anne Gentle       | https://justwriteclick.com/about                                      | Doc as Code                      | [@annegentle](https://twitter.com/annegentle)         |
+| Kayce Basques     | https://kayce.basqu.es/blog                                            | Dev tools and Documentation      | [@kaycebasques](https://twitter.com/kaycebasques)     |
 
  </details>
 
