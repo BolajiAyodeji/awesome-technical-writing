@@ -5,7 +5,7 @@
 
 ![](https://repository-images.githubusercontent.com/221308953/36034800-6311-11ea-8418-8a1a03c97d81)
 
-> Technical writing is writing or drafting technical communication used in technical and occupational fields, such as computer hardware and software, engineering, chemistry, aeronautics, robotics, finance, medical, consumer electronics, biotechnology, and forestry. ~ [Wikepedia](https://en.wikipedia.org/wiki/Technical_writing)
+> Technical writing is writing or drafting technical communication used in technical and occupational fields, such as computer hardware and software, engineering, chemistry, aeronautics, robotics, finance, medical, consumer electronics, biotechnology, and forestry. ~ [Wikipedia](https://en.wikipedia.org/wiki/Technical_writing)
 
 *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) list*
 
