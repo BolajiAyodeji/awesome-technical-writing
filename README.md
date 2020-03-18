@@ -145,8 +145,10 @@
 | Prosper Otemuyiwa | https://medium.com/@unicodeveloper | All things Technical & Magical   | [@unicodeveloper](https://twitter.com/unicodeveloper) |
 | Ire Aderinokun    | https://bitsofco.de                             | Frontend Development, JavaScript | [@ireaderinokun](https://twitter.com/ireaderinokun)   |
 | Tom Johnson       | https://idratherbewriting.com                                         | Technical Writing and API lessons| [@tomjohnson](https://twitter.com/tomjohnson)         |
-| Anne Gentle       | https://justwriteclick.com/about                                      | Doc as Code                      | [@annegentle](https://twitter.com/annegentle)         |
+| Anne Gentle       | https://justwriteclick.com                                      | Doc as Code                      | [@annegentle](https://twitter.com/annegentle)         |
 | Kayce Basques     | https://kayce.basqu.es/blog                                            | Dev tools and Documentation      | [@kaycebasques](https://twitter.com/kaycebasques)     |
+| Tania Rascia     | https:taniarascia.com                                            | Modern JavaScript, Node.js, and development     | [@taniarascia](https://twitter.com/taniarascia)     |
+| SWYX     | https://swyx.io/writing                                            | Web Development, React and Tech     | [@swyx](https://twitter.com/swyx)     |
 
  </details>
 
