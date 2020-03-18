@@ -94,6 +94,11 @@
 * [Dropbox Paper](https://www.dropbox.com/paper) - A flexible workspace for collaborative document-editing.
 * [Google Docs](https://docs.google.com/) - Smart editing and styling tools to help you easily format text and paragraphs.
 * [Notion](https://notion.so) - The all-in-one workspace for your notes, tasks, wikis and databases.
+* [Grammarly](https://www.grammarly.com/) - a writing assistant that goes deeper than grammar to offer you comprehensive writing feedback.
+* [Canva](https://www.canva.com/) - A graphic design platform that allows you to create social media graphics, and other visual content. 
+* [TinyPNG](https://tinypng.com/) - Smart PNG and JPEG image compression.
+* [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en) - The simplest way to take a full page screenshot of your current browser window.
+* [Awesome Screenshot: Screen Video Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) - Screen Capture full page screenshot and recoder for screencast.
 
 ## Conferences
 * [Write the Docs Conferences](https://www.writethedocs.org/conf/)
