@@ -83,6 +83,7 @@
 * [What do Technical Writers do? (Also, what is Technical Writing?)](https://www.youtube.com/watch?v=biocrCx5T_k)
 * [How to become a Technical Writer | Skills & Career Growth](https://www.youtube.com/watch?v=8l2KJXIBpB0)
 * [Writing technical documentation](https://www.youtube.com/watch?v=a4L9GhldTHo)
+* [Write The Docs Podcast & Meetups](https://www.youtube.com/channel/UCUI--N-VWjK93292AaaArCg)
 
 ## Podcasts
 * [The Manuscript Podcast](https://brenobarreto.co/the-manuscript-podcast/) - The intersection of writing and the development of technology products.
