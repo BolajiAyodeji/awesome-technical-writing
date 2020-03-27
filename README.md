@@ -105,6 +105,7 @@
 * [TinyPNG](https://tinypng.com/) - Smart PNG and JPEG image compression.
 * [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en) - The simplest way to take a full page screenshot of your current browser window.
 * [Awesome Screenshot: Screen Video Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) - Screen Capture full page screenshot and recoder for screencast.
+* [Readme Markdown Generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files.
 
 ## Conferences
 * [Write the Docs Conferences](https://www.writethedocs.org/conf/)
