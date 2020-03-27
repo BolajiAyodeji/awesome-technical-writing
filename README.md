@@ -84,6 +84,11 @@
 * [How to become a Technical Writer | Skills & Career Growth](https://www.youtube.com/watch?v=8l2KJXIBpB0)
 * [Writing technical documentation](https://www.youtube.com/watch?v=a4L9GhldTHo)
 * [Write The Docs Podcast & Meetups](https://www.youtube.com/channel/UCUI--N-VWjK93292AaaArCg)
+* [Write the Readable README](https://www.youtube.com/watch?v=2dAK42B7qtw)
+* [GitHub as a Landing Page](https://www.youtube.com/watch?v=fXMN4X9B8Rg&feature=youtu.be)
+* [Lessons Learned From Rebuilding a Developer Documentation Website](https://www.youtube.com/watch?v=s4kS-crtnlQ)
+* [A Balanced Diet of Documentation](https://www.youtube.com/watch?v=K-ACxb_Iy5k)
+* [Write your Docs like nobody reads them](https://www.youtube.com/watch?v=ye-hCiJ5_Dg)
 
 ## Podcasts
 * [The Manuscript Podcast](https://brenobarreto.co/the-manuscript-podcast/) - The intersection of writing and the development of technology products.
