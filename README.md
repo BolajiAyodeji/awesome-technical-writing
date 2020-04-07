@@ -71,6 +71,7 @@
 * [How to Improve the SEO of Your Devblog](https://townhall.hashnode.com/how-to-improve-the-seo-of-your-devblog-cjz191c0e00380ks1nbtpwh8f)
 * [Technical Writing: Why and How?](https://medium.com/the-andela-way/technical-writing-why-and-how-599f18477cef)
 * [Minimalist Approach to Technical Documentation](https://www.utwente.nl/en/bms/ist/minimalism/)
+* [A beginner’s guide to writing documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
 
 ## Videos
 * [Content Creation Strategies: How To Create Content Online](https://www.youtube.com/watch?v=APQoWEqezFc)
