@@ -157,8 +157,7 @@
 | Kayce Basques     | https://kayce.basqu.es/blog                                            | Dev tools and Documentation      | [@kaycebasques](https://twitter.com/kaycebasques)     |
 | Tania Rascia     | https://taniarascia.com                                            | Modern JavaScript, Node.js, and development     | [@taniarascia](https://twitter.com/taniarascia)     |
 | SWYX     | https://swyx.io/writing                                            | Web Development, React and Tech     | [@swyx](https://twitter.com/swyx)     |
-| Sean C Davis    | https://cobwwweb.com/ | Web Development, JamStack |
-[@seancdavis29](https://twitter.com/seancdavis29)   |
+| Sean C Davis    | https://cobwwweb.com/ | Web Development, JamStack | [@seancdavis29](https://twitter.com/seancdavis29)  |
 
 
  </details>
