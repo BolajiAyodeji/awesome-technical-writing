@@ -33,6 +33,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "rachfop",
+      "name": "Patrick Rachford",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/64233065?v=4",
+      "profile": "https://medium.com/@patford12",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
