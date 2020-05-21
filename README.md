@@ -43,7 +43,7 @@
 
 
 ## Courses
-* [Study technical writing](https://developers.google.com/tech-writing/overview)
+* [Study Technical Writing](https://developers.google.com/tech-writing/overview)
 * [Technical Writing: Documentation on Software Projects](https://www.pluralsight.com/courses/technical-writing-software-documentation)
 * [Coding for Writers: Basic Programming](https://www.udemy.com/course/coding-for-writers-1-basic-programming/)
 * [Class Central Technical Writing](https://www.classcentral.com/course/technical-writing-7117)
@@ -63,7 +63,7 @@
 * [How to Become a Technical Writer: A Beginner’s Guide](https://www.instructionalsolutions.com/blog/become-a-technical-writer)
 * [How to Create Cover Images for Your Devblog Posts](https://townhall.hashnode.com/how-to-create-cover-images-for-your-devblog-posts-cjyo53edo000heys1p7iuylpw)
 * [Introducing Google Season of Docs](https://bolajiayodeji.com/introducing-google-season-of-docs-ck27y4gzc007ocws12njwqpy2)
-* [How to start a software YouTube channel](https://www.freecodecamp.org/news/how-to-start-a-software-youtube-channel/)
+* [How to Start a Software YouTube Channel](https://www.freecodecamp.org/news/how-to-start-a-software-youtube-channel/)
 * [Starting a YouTube Channel as a Software Developer](https://www.claudiobernasconi.ch/2019/03/20/starting-a-youtube-channel-as-a-software-developer/0)
 * [How to Create a Programming YouTube Channel - Lessons From 5 Years and 1 Million Subscribers](https://www.freecodecamp.org/news/how-to-start-a-software-youtube-channel-video-course/)
 * [Developers: The Why and How to Writing Technical Articles](https://www.freecodecamp.org/news/developers-the-why-and-how-to-writing-technical-articles-54e824789ef6/)
@@ -72,10 +72,11 @@
 * [Technical Writing: Why and How?](https://medium.com/the-andela-way/technical-writing-why-and-how-599f18477cef)
 * [Minimalist Approach to Technical Documentation](https://www.utwente.nl/en/bms/ist/minimalism/)
 * [A beginner’s guide to writing documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
+* [Crash Course in APIs for Technical Writers](https://medium.com/@patford12/crash-course-in-apis-for-technical-writers-694b274a2ad8)
 
 ## Videos
 * [Content Creation Strategies: How To Create Content Online](https://www.youtube.com/watch?v=APQoWEqezFc)
-* [How to start a coding YouTube channel (with tips from a bunch of successful creators!)](https://www.youtube.com/watch?v=AsTagX5tG4E)
+* [How to start a Coding YouTube channel (with tips from a bunch of successful creators!)](https://www.youtube.com/watch?v=AsTagX5tG4E)
 * [How To Start A Programming YouTube Channel With Coding Tutorials 360](https://www.youtube.com/watch?v=aeCRHv4XUPU)
 * [15 Technical Writing Tips](https://www.youtube.com/watch?v=Lw4TKCsIumQ)
 * [What is Technical Writing? | Writing Genre Fundamentals](https://www.youtube.com/watch?v=9SB4tfD0hxM)
@@ -89,9 +90,11 @@
 * [GitHub as a Landing Page](https://www.youtube.com/watch?v=fXMN4X9B8Rg&feature=youtu.be)
 * [Lessons Learned From Rebuilding a Developer Documentation Website](https://www.youtube.com/watch?v=s4kS-crtnlQ)
 * [A Balanced Diet of Documentation](https://www.youtube.com/watch?v=K-ACxb_Iy5k)
-* [Write your Docs like nobody reads them](https://www.youtube.com/watch?v=ye-hCiJ5_Dg)
+* [Write your Docs like Nobody Reads Them](https://www.youtube.com/watch?v=ye-hCiJ5_Dg)
 * [The Developer's Guide to Technical Writing](https://drive.google.com/file/d/1a01iOLh_EYSTdukw_--mFJk-PD_IZXYh/view?fbclid=IwAR0D11PeXf_x4n8KlQJ2XCeY294QHyfnktrfk3cCW2VcSrTsh6zaYisLTqY)
+
 * [How to write technical blog posts](https://www.youtube.com/watch?v=YODPgBadj80)
+
 
 ## Podcasts
 * [The Manuscript Podcast](https://brenobarreto.co/the-manuscript-podcast/) - The intersection of writing and the development of technology products.
