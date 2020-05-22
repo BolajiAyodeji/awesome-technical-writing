@@ -102,6 +102,7 @@
 * [Write the Docs Podcast](https://podcast.writethedocs.org/) - The Write the Docs Podcast publishes discussion-style podcasts focusing on topics related to the Write the Docs community.
 
 ## Useful Tools
+* [technical-writing-template](https://github.com/BolajiAyodeji/technical-writing-template)
 * [HackMD](https://hackmd.io/) - Real-time collaborate on technical documentation in markdown.
 * [Dropbox Paper](https://www.dropbox.com/paper) - A flexible workspace for collaborative document-editing.
 * [Google Docs](https://docs.google.com/) - Smart editing and styling tools to help you easily format text and paragraphs.
