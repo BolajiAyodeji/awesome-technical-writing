@@ -1,6 +1,6 @@
 # Awesome Technical Writing
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![](https://repository-images.githubusercontent.com/221308953/36034800-6311-11ea-8418-8a1a03c97d81)
@@ -184,6 +184,7 @@ Found an awesome technical writer, resource, article, blog, tool, video, speaker
     <td align="center"><a href="https://github.com/prachford"><img src="https://avatars2.githubusercontent.com/u/59001653?v=4" width="100px;" alt=""/><br /><sub><b>prachford</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=prachford" title="Documentation">📖</a></td>
     <td align="center"><a href="https://iamjude.xyz"><img src="https://avatars3.githubusercontent.com/u/44995419?v=4" width="100px;" alt=""/><br /><sub><b>Jude J Obiejesi</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=JaybeeClassical" title="Documentation">📖</a></td>
     <td align="center"><a href="https://medium.com/@patford12"><img src="https://avatars0.githubusercontent.com/u/64233065?v=4" width="100px;" alt=""/><br /><sub><b>Patrick Rachford</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=rachfop" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://edidiongasikpo.com/"><img src="https://avatars1.githubusercontent.com/u/28895379?v=4" width="100px;" alt=""/><br /><sub><b>Didicodes</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=edyasikpo" title="Documentation">📖</a></td>
   </tr>
 </table>
 
