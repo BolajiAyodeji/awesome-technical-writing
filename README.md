@@ -73,6 +73,7 @@
 * [Minimalist Approach to Technical Documentation](https://www.utwente.nl/en/bms/ist/minimalism/)
 * [A beginner’s guide to writing documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
 * [Crash Course in APIs for Technical Writers](https://medium.com/@patford12/crash-course-in-apis-for-technical-writers-694b274a2ad8)
+* [Technical Writing: What and How?](https://edidiongasikpo.com/technical-writing-what-and-how-ckastwm2705xq4us1l0cbvv2h)
 
 ## Videos
 * [Content Creation Strategies: How To Create Content Online](https://www.youtube.com/watch?v=APQoWEqezFc)
