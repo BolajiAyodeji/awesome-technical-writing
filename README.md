@@ -94,6 +94,7 @@
 * [Write your Docs like Nobody Reads Them](https://www.youtube.com/watch?v=ye-hCiJ5_Dg)
 * [The Developer's Guide to Technical Writing](https://drive.google.com/file/d/1a01iOLh_EYSTdukw_--mFJk-PD_IZXYh/view?fbclid=IwAR0D11PeXf_x4n8KlQJ2XCeY294QHyfnktrfk3cCW2VcSrTsh6zaYisLTqY)
 * [How to write technical blog posts](https://www.youtube.com/watch?v=YODPgBadj80)
+* [Technical Writing Portfolio](https://www.youtube.com/watch?v=68ddwfpXHrE)
 
 
 ## Podcasts
