@@ -137,6 +137,7 @@
 * [Docs Like Code](https://www.amazon.com/Docs-Like-Code-Anne-Gentle/dp/1365816079) by Anne Gentle
 * [The Product is Docs](https://www.goodreads.com/book/show/37563319-the-product-is-docs) by Christopher Gales
 * [Every Page is Page One](https://www.amazon.com/Every-Page-One-Topic-Based-Communication/dp/1937434281) by Mark Baker
+* [Modern Technical Writing: An Introduction to Software ](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/ref=sr_1_1?crid=Y7S35M7LVXWE&dchild=1&keywords=modern+technical+writing&qid=1595414707&sprefix=modern+technical+%2Caps%2C346&sr=8-1)- by Andrew Etter
 
 ## Style Guides
 * [Microsoft Manual of Style](https://ptgmedia.pearsoncmg.com/images/9780735648715/samplepages/9780735648715.pdf)
