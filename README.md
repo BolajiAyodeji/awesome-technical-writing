@@ -18,7 +18,6 @@
 - [Conferences](#conferences)
 - [Speaker Decks](#speaker-decks)
 - [Books](#books)
-- [Videos](#videos)
 - [Podcasts](#podcasts)
 - [Style Guides](#style-guides)
 - [Technical Writers to Follow](#technical-writers-to-follow)
