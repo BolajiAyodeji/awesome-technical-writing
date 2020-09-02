@@ -100,6 +100,7 @@
 * [The Manuscript Podcast](https://brenobarreto.co/the-manuscript-podcast/) - The intersection of writing and the development of technology products.
 * [The Manuscript Academy Podcast](podcast) - Interviews with agents and editors, how-to tips, and behind-the-scenes looks at the creation of the Academy.
 * [Write the Docs Podcast](https://podcast.writethedocs.org/) - The Write the Docs Podcast publishes discussion-style podcasts focusing on topics related to the Write the Docs community.
+* [The Not-Boring Tech Writer](https://www.thenotboringtechwriter.com/) - The Not-Boring Tech Writer podcast introduces technical writers skills used in the open data movement.
 
 ## Useful Tools
 * [technical-writing-template](https://github.com/BolajiAyodeji/technical-writing-template)
