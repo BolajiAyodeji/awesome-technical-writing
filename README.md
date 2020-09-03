@@ -73,6 +73,8 @@
 * [A beginner’s guide to writing documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
 * [Crash Course in APIs for Technical Writers](https://medium.com/@patford12/crash-course-in-apis-for-technical-writers-694b274a2ad8)
 * [Technical Writing: What and How?](https://edidiongasikpo.com/technical-writing-what-and-how-ckastwm2705xq4us1l0cbvv2h)
+* [Write For Us: A List of Companies Who Pay Freelancers for Writing Tutorials](https://github.com/sixhobbits/technical-writing/blob/master/write-for-us.md)
+* [Technical Writing Books: A Curated Collection of Books to Help You Be a Better Technical Writer](https://github.com/sixhobbits/technical-writing/blob/master/resources.md)
 
 ## Videos
 * [Content Creation Strategies: How To Create Content Online](https://www.youtube.com/watch?v=APQoWEqezFc)
