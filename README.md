@@ -100,7 +100,7 @@
 
 ## Podcasts
 * [The Manuscript Podcast](https://brenobarreto.co/the-manuscript-podcast/) - The intersection of writing and the development of technology products.
-* [The Manuscript Academy Podcast](podcast) - Interviews with agents and editors, how-to tips, and behind-the-scenes looks at the creation of the Academy.
+* [The Manuscript Academy Podcast](https://manuscriptacademy.com/podcast) - Interviews with agents and editors, how-to tips, and behind-the-scenes looks at the creation of the Academy.
 * [Write the Docs Podcast](https://podcast.writethedocs.org/) - The Write the Docs Podcast publishes discussion-style podcasts focusing on topics related to the Write the Docs community.
 * [The Not-Boring Tech Writer](https://www.thenotboringtechwriter.com/) - The Not-Boring Tech Writer podcast introduces technical writers skills used in the open data movement.
 
@@ -111,7 +111,7 @@
 * [Google Docs](https://docs.google.com/) - Smart editing and styling tools to help you easily format text and paragraphs.
 * [Notion](https://notion.so) - The all-in-one workspace for your notes, tasks, wikis and databases.
 * [Grammarly](https://www.grammarly.com/) - a writing assistant that goes deeper than grammar to offer you comprehensive writing feedback.
-* [Canva](https://www.canva.com/) - A graphic design platform that allows you to create social media graphics, and other visual content. 
+* [Canva](https://www.canva.com/) - A graphic design platform that allows you to create social media graphics, and other visual content.
 * [TinyPNG](https://tinypng.com/) - Smart PNG and JPEG image compression.
 * [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en) - The simplest way to take a full page screenshot of your current browser window.
 * [Awesome Screenshot: Screen Video Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) - Screen Capture full page screenshot and recorder for screencast.
