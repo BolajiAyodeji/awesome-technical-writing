@@ -1,6 +1,6 @@
 # Awesome Technical Writing
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![](https://repository-images.githubusercontent.com/221308953/36034800-6311-11ea-8418-8a1a03c97d81)
@@ -194,6 +194,7 @@ Found an awesome technical writer, resource, article, blog, tool, video, speaker
   </tr>
   <tr>
     <td align="center"><a href="https://peterthaleikis.com"><img src="https://avatars0.githubusercontent.com/u/8433587?v=4" width="100px;" alt=""/><br /><sub><b>Peter Thaleikis</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=spekulatius" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://genesisgabiola.now.sh/"><img src="https://avatars0.githubusercontent.com/u/8042418?v=4" width="100px;" alt=""/><br /><sub><b>Genesis Gabiola</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=genesisgabiola" title="Documentation">📖</a></td>
   </tr>
 </table>
 
