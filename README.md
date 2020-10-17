@@ -117,6 +117,7 @@
 * [Awesome Screenshot: Screen Video Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) - Screen Capture full page screenshot and recorder for screencast.
 * [Readme Markdown Generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files.
 * [Capture to a Gif](https://chrome.google.com/webstore/detail/capture-to-a-gif/eapecadlmfblmnfnojebefkbginhggeh) - Record content of pages to an animated gif picture from browser.
+* [Microsoft Word](https://www.microsoft.com/en/microsoft-365/word) - Goes beyond checking spelling and grammar, intelligent suggestions is also included to assist you across documents, email, and on the web.
 
 ## Conferences
 * [Write the Docs Conferences](https://www.writethedocs.org/conf/)
