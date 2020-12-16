@@ -87,6 +87,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "thomvaill",
+      "name": "Thomas Vaillant",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/8985674?v=4",
+      "profile": "https://bluebricks.dev",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
