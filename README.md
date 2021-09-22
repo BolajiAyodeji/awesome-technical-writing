@@ -217,7 +217,7 @@ Found an awesome technical writer, resource, article, blog, tool, video, speaker
 
 ---
 
-**Check out my [blog](https://bolajiayodeji.com) or say *hi* on [Twitter](https://twitter.com/iambolajiayo).**
+**Check out my [blog](https://blog.bolajiayodeji.com), [newsletter](https://bawd.bolajiayodeji.com), or say *hi* on [Twitter](https://twitter.com/iambolajiayo).**
 
 ## License
 
