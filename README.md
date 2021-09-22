@@ -1,4 +1,5 @@
 # Awesome Technical Writing
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -10,6 +11,7 @@
 *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) list*
 
 ## Table of Contents
+
 - [Community](#community)
 - [Courses](#courses)
 - [Resources](#resources)
@@ -22,9 +24,8 @@
 - [Style Guides](#style-guides)
 - [Technical Writers to Follow](#technical-writers-to-follow)
 
-
-
 ## Community
+
 * [Hashnode](https://hashnode.com/)
 * [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
 * [Google's Season of Docs](https://developers.google.com/season-of-docs/)
@@ -42,6 +43,7 @@
 
 
 ## Courses
+
 * [Study Technical Writing](https://developers.google.com/tech-writing/overview)
 * [Technical Writing: Documentation on Software Projects](https://www.pluralsight.com/courses/technical-writing-software-documentation)
 * [Coding for Writers: Basic Programming](https://www.udemy.com/course/coding-for-writers-1-basic-programming/)
@@ -53,6 +55,7 @@
 * [Learn DITA](https://learningdita.com/)
 
 ## Resources
+
 * [The Ultimate Guide to Content Creation](https://blog.hubspot.com/marketing/content-creation)
 * [How to Create Great Content: A Step-by-Step Guide to Content Marketing That Delivers Real Results](https://www.inc.com/jeff-haden/how-to-create-great-content-a-step-by-step-guide-to-content-marketing-that-delivers-real-results.html)
 * [9 Tips to Become the Best Content Creator in Your Industry](https://www.weidert.com/blog/tips-to-make-you-the-best-content-creator-in-your-industry)
@@ -77,6 +80,7 @@
 * [Technical Writing Books: A Curated Collection of Books to Help You Be a Better Technical Writer](https://github.com/sixhobbits/technical-writing/blob/master/resources.md)
 
 ## Videos
+
 * [Content Creation Strategies: How To Create Content Online](https://www.youtube.com/watch?v=APQoWEqezFc)
 * [How to start a Coding YouTube channel (with tips from a bunch of successful creators!)](https://www.youtube.com/watch?v=AsTagX5tG4E)
 * [How To Start A Programming YouTube Channel With Coding Tutorials 360](https://www.youtube.com/watch?v=aeCRHv4XUPU)
@@ -97,15 +101,16 @@
 * [How to write technical blog posts](https://www.youtube.com/watch?v=YODPgBadj80)
 * [Technical Writing Portfolio](https://www.youtube.com/watch?v=68ddwfpXHrE)
 
-
 ## Podcasts
+
 * [The Manuscript Podcast](https://brenobarreto.co/the-manuscript-podcast/) - The intersection of writing and the development of technology products.
 * [The Manuscript Academy Podcast](https://manuscriptacademy.com/podcast) - Interviews with agents and editors, how-to tips, and behind-the-scenes looks at the creation of the Academy.
 * [Write the Docs Podcast](https://podcast.writethedocs.org/) - The Write the Docs Podcast publishes discussion-style podcasts focusing on topics related to the Write the Docs community.
 * [The Not-Boring Tech Writer](https://www.thenotboringtechwriter.com/) - The Not-Boring Tech Writer podcast introduces technical writers skills used in the open data movement.
 
 ## Useful Tools
-* [technical-writing-template](https://github.com/BolajiAyodeji/technical-writing-template)
+
+* [technical-writing-template](https://github.com/BolajiAyodeji/technical-writing-template) - A sample template for writing a technical article.
 * [HackMD](https://hackmd.io/) - Real-time collaborate on technical documentation in markdown.
 * [Dropbox Paper](https://www.dropbox.com/paper) - A flexible workspace for collaborative document-editing.
 * [Google Docs](https://docs.google.com/) - Smart editing and styling tools to help you easily format text and paragraphs.
@@ -121,6 +126,7 @@
 * [Log4brains](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website.
 
 ## Conferences
+
 * [Write the Docs Conferences](https://www.writethedocs.org/conf/)
 * [The LavaCon Content Strategy Conference ](https://lavacon.org/)
 * [API the Docs](https://apithedocs.org/)
@@ -129,10 +135,12 @@
 * [WritersUA West Content Pro Conference](http://west.writersua.com/)
 
 ## Speaker Decks
+
 * [Effective Documentation: The Key to Open Source Growth](https://slides.com/bolajiayodeji/effective-oss-docs)
 * [Technical Writing for Non-Writers](https://speakerdeck.com/taroth21/technical-writing-for-non-writers)
 
 ## Books
+
 * [The Developer's Guide to Content Creation](https://www.developersguidetocontent.com/) - by Stephanie Morillo
 * [The Developer's Guide to Creating a Successful Blog](https://gumroad.com/l/successfulblog) - by  Flavio Copes
 * [Everybody Writes](https://www.goodreads.com/book/show/23001125-everybody-writes) - by Ann Handley
@@ -146,6 +154,7 @@
 * [Modern Technical Writing: An Introduction to Software ](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/ref=sr_1_1?crid=Y7S35M7LVXWE&dchild=1&keywords=modern+technical+writing&qid=1595414707&sprefix=modern+technical+%2Caps%2C346&sr=8-1)- by Andrew Etter
 
 ## Style Guides
+
 * [Microsoft Manual of Style](https://ptgmedia.pearsoncmg.com/images/9780735648715/samplepages/9780735648715.pdf)
 * [IBM Editorial Style Guide](https://www.ibm.com/developerworks/library/styleguidelines/)
 * [The Red Hat Style Guide](https://stylepedia.net/style/)
@@ -160,7 +169,7 @@
 
 | Name              | Link to Blog                                                             | Blog Niche                       | Link to Twitter                                       |
 |-------------------|--------------------------------------------------------------------------|----------------------------------|-------------------------------------------------------|
-| Bolaji Ayodeji    | https://bolajiayodeji.com                   | Web Development, JAMstack, A11y  | [@iambolajiayo](https://twitter.com/iambolajiayo)     |
+| Bolaji Ayodeji    | https://blog.bolajiayodeji.com                   | Web Development, JAMstack, A11y  | [@iambolajiayo](https://twitter.com/iambolajiayo)     |
 | Angie Jones       | https://angiejones.tech                      | Test Automation, Java            | [@techgirl1908](https://twitter.com/techgirl1908)     |
 | Sarah Drasner     | https://sarah.dev/writing                  | Web Development, Vuejs, SVGs     | [@sarah_edo](https://twitter.com/sarah_edo)           |
 | Prosper Otemuyiwa | https://medium.com/@unicodeveloper | All things Technical & Magical   | [@unicodeveloper](https://twitter.com/unicodeveloper) |
@@ -176,6 +185,7 @@
  </details>
 
 ## Contributing
+
 Found an awesome technical writer, resource, article, blog, tool, video, speaker deck etc.? Please send me a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
 
 
@@ -210,4 +220,5 @@ Found an awesome technical writer, resource, article, blog, tool, video, speaker
 **Check out my [blog](https://bolajiayodeji.com) or say *hi* on [Twitter](https://twitter.com/iambolajiayo).**
 
 ## License
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
