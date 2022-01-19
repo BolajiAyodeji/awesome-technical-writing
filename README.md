@@ -124,6 +124,7 @@
 * [Capture to a Gif](https://chrome.google.com/webstore/detail/capture-to-a-gif/eapecadlmfblmnfnojebefkbginhggeh) - Record content of pages to an animated gif picture from browser.
 * [Microsoft Word](https://www.microsoft.com/en/microsoft-365/word) - Goes beyond checking spelling and grammar, intelligent suggestions is also included to assist you across documents, email, and on the web.
 * [Log4brains](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website.
+* [Antidote](https://www.antidote.info/en) - The corrector analyzes your text and flags any detections.
 
 ## Conferences
 
@@ -180,6 +181,7 @@
 | Tania Rascia     | https://taniarascia.com                                            | Modern JavaScript, Node.js, and development     | [@taniarascia](https://twitter.com/taniarascia)     |
 | SWYX     | https://swyx.io/writing                                            | Web Development, React and Tech     | [@swyx](https://twitter.com/swyx)     |
 | Sean C Davis    | https://cobwwweb.com/ | Web Development, JamStack | [@seancdavis29](https://twitter.com/seancdavis29)  |
+| Alvaro Montoro | [The Ultimate Guide to CSS Colors (2020 Edition)](https://dev.to/alvaromontoro/the-ultimate-guide-to-css-colors-2020-edition-1bh1#rgb-rgba) | css, html | [@alvaro_montoro](https://twitter.com/alvaro_montoro) 
 
 
  </details>
