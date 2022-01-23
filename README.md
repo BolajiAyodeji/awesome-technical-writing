@@ -138,6 +138,7 @@
 
 * [Effective Documentation: The Key to Open Source Growth](https://slides.com/bolajiayodeji/effective-oss-docs)
 * [Technical Writing for Non-Writers](https://speakerdeck.com/taroth21/technical-writing-for-non-writers)
+* [Beyond The Editor: Automating Your Writing Process](https://slides.com/bolajiayodeji/beyond-the-editor)
 
 ## Books
 
