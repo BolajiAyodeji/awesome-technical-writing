@@ -181,7 +181,7 @@
 | Tania Rascia     | https://taniarascia.com                                            | Modern JavaScript, Node.js, and development     | [@taniarascia](https://twitter.com/taniarascia)     |
 | SWYX     | https://swyx.io/writing                                            | Web Development, React and Tech     | [@swyx](https://twitter.com/swyx)     |
 | Sean C Davis    | https://cobwwweb.com/ | Web Development, JamStack | [@seancdavis29](https://twitter.com/seancdavis29)  |
-| Alvaro Montoro | [The Ultimate Guide to CSS Colors (2020 Edition)](https://dev.to/alvaromontoro/the-ultimate-guide-to-css-colors-2020-edition-1bh1#rgb-rgba) | css, html | [@alvaro_montoro](https://twitter.com/alvaro_montoro) 
+| Alvaro Montoro |  https://dev.to/alvaromontoro  | css, html | [@alvaro_montoro](https://twitter.com/alvaro_montoro) 
 
 
  </details>
