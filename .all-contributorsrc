@@ -96,6 +96,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "rsipakov",
+      "name": "Rostyslav Sipakov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34224178?v=4",
+      "profile": "https://www.sipakov.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
