@@ -1,7 +1,7 @@
 # Awesome Technical Writing
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![](https://repository-images.githubusercontent.com/221308953/36034800-6311-11ea-8418-8a1a03c97d81)
@@ -199,23 +199,25 @@ Found an awesome technical writer, resource, article, blog, tool, video, speaker
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://www.patreon.com/bolajiayodeji"><img src="https://avatars2.githubusercontent.com/u/30334776?v=4" width="100px;" alt=""/><br /><sub><b>Bolaji Ayodeji</b></sub></a><br /><a href="#content-BolajiAyodeji" title="Content">🖋</a> <a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=BolajiAyodeji" title="Documentation">📖</a> <a href="#design-BolajiAyodeji" title="Design">🎨</a></td>
-    <td align="center"><a href="https://github.com/prachford"><img src="https://avatars2.githubusercontent.com/u/59001653?v=4" width="100px;" alt=""/><br /><sub><b>prachford</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=prachford" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://iamjude.xyz"><img src="https://avatars3.githubusercontent.com/u/44995419?v=4" width="100px;" alt=""/><br /><sub><b>Jude J Obiejesi</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=JaybeeClassical" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://medium.com/@patford12"><img src="https://avatars0.githubusercontent.com/u/64233065?v=4" width="100px;" alt=""/><br /><sub><b>Patrick Rachford</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=rachfop" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://edidiongasikpo.com/"><img src="https://avatars1.githubusercontent.com/u/28895379?v=4" width="100px;" alt=""/><br /><sub><b>Didicodes</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=edyasikpo" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/browncrussell"><img src="https://avatars3.githubusercontent.com/u/70669410?v=4" width="100px;" alt=""/><br /><sub><b>browncrussell</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=browncrussell" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://dwyer.co.za"><img src="https://avatars2.githubusercontent.com/u/2641205?v=4" width="100px;" alt=""/><br /><sub><b>Gareth Dwyer</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=sixhobbits" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.patreon.com/bolajiayodeji"><img src="https://avatars2.githubusercontent.com/u/30334776?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bolaji Ayodeji</b></sub></a><br /><a href="#content-BolajiAyodeji" title="Content">🖋</a> <a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=BolajiAyodeji" title="Documentation">📖</a> <a href="#design-BolajiAyodeji" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/prachford"><img src="https://avatars2.githubusercontent.com/u/59001653?v=4?s=100" width="100px;" alt=""/><br /><sub><b>prachford</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=prachford" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://iamjude.xyz"><img src="https://avatars3.githubusercontent.com/u/44995419?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jude J Obiejesi</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=JaybeeClassical" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://medium.com/@patford12"><img src="https://avatars0.githubusercontent.com/u/64233065?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Patrick Rachford</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=rachfop" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://edidiongasikpo.com/"><img src="https://avatars1.githubusercontent.com/u/28895379?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Didicodes</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=edyasikpo" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/browncrussell"><img src="https://avatars3.githubusercontent.com/u/70669410?v=4?s=100" width="100px;" alt=""/><br /><sub><b>browncrussell</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=browncrussell" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://dwyer.co.za"><img src="https://avatars2.githubusercontent.com/u/2641205?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gareth Dwyer</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=sixhobbits" title="Documentation">📖</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://peterthaleikis.com"><img src="https://avatars0.githubusercontent.com/u/8433587?v=4" width="100px;" alt=""/><br /><sub><b>Peter Thaleikis</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=spekulatius" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://genesisgabiola.now.sh/"><img src="https://avatars0.githubusercontent.com/u/8042418?v=4" width="100px;" alt=""/><br /><sub><b>Genesis Gabiola</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=genesisgabiola" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://bluebricks.dev"><img src="https://avatars2.githubusercontent.com/u/8985674?v=4" width="100px;" alt=""/><br /><sub><b>Thomas Vaillant</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=thomvaill" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://peterthaleikis.com"><img src="https://avatars0.githubusercontent.com/u/8433587?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Peter Thaleikis</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=spekulatius" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://genesisgabiola.now.sh/"><img src="https://avatars0.githubusercontent.com/u/8042418?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Genesis Gabiola</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=genesisgabiola" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://bluebricks.dev"><img src="https://avatars2.githubusercontent.com/u/8985674?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Thomas Vaillant</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=thomvaill" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.sipakov.com"><img src="https://avatars.githubusercontent.com/u/34224178?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rostyslav Sipakov</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=rsipakov" title="Documentation">📖</a></td>
   </tr>
 </table>
 
-<!-- markdownlint-enable -->
+<!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ---
