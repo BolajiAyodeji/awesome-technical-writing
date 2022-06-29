@@ -182,7 +182,9 @@
 | Tania Rascia     | https://taniarascia.com                                            | Modern JavaScript, Node.js, and development     | [@taniarascia](https://twitter.com/taniarascia)     |
 | SWYX     | https://swyx.io/writing                                            | Web Development, React and Tech     | [@swyx](https://twitter.com/swyx)     |
 | Sean C Davis    | https://cobwwweb.com/ | Web Development, JamStack | [@seancdavis29](https://twitter.com/seancdavis29)  |
-| Alvaro Montoro |  https://dev.to/alvaromontoro  | css, html | [@alvaro_montoro](https://twitter.com/alvaro_montoro) 
+| Alvaro Montoro |  https://dev.to/alvaromontoro  | css, html | [@alvaro_montoro](https://twitter.com/alvaro_montoro) |
+| Linda Ikechukwu | https://www.everythingtechnicalwriting.com/ | Technical Writing and Developer Documentation | [@_mslinda](https://twitter.com/_MsLinda)|
+| Amruta Ranade | https://www.youtube.com/c/AmrutaRanade | Technical Writing and Developer Documentation | [@AmrutaRanade](https://twitter.com/AmrutaRanade) | 
 
 
  </details>
