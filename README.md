@@ -53,6 +53,7 @@
 * [English 305: Advanced Technical Writing](https://study.com/academy/course/technical-writing-course.html)
 * [Technical Communication Techniques and Principles for Project Managers](https://ce.uwec.edu/programs/technical-communication-techniques-and-principles-project-managers/)
 * [Learn DITA](https://learningdita.com/)
+* [Documenting APIs: A Guide for Technical Writers](https://idratherbewriting.com/learnapidoc)
 
 ## Resources
 
