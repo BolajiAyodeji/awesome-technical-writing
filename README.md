@@ -79,6 +79,7 @@
 * [Technical Writing: What and How?](https://edidiongasikpo.com/technical-writing-what-and-how-ckastwm2705xq4us1l0cbvv2h)
 * [Write For Us: A List of Companies Who Pay Freelancers for Writing Tutorials](https://github.com/sixhobbits/technical-writing/blob/master/write-for-us.md)
 * [Technical Writing Books: A Curated Collection of Books to Help You Be a Better Technical Writer](https://github.com/sixhobbits/technical-writing/blob/master/resources.md)
+* [Everything Technical Writing: Tips and Techniques that'll Help You Thrive as a Technical Writer in the Software Industry](https://www.everythingtechnicalwriting.com/)
 
 ## Videos
 
