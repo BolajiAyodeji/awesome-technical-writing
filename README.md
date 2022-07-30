@@ -65,7 +65,7 @@
 * [15 Tips to Improve Your Technical Writing](https://thebestschools.org/magazine/technical-writing-tips/)
 * [How to Become a Technical Writer: A Beginner’s Guide](https://www.instructionalsolutions.com/blog/become-a-technical-writer)
 * [How to Create Cover Images for Your Devblog Posts](https://townhall.hashnode.com/how-to-create-cover-images-for-your-devblog-posts-cjyo53edo000heys1p7iuylpw)
-* [Introducing Google Season of Docs](https://bolajiayodeji.com/introducing-google-season-of-docs-ck27y4gzc007ocws12njwqpy2)
+* [Introducing Google Season of Docs](https://developers.google.com/season-of-docs/docs)
 * [How to Start a Software YouTube Channel](https://www.freecodecamp.org/news/how-to-start-a-software-youtube-channel/)
 * [Starting a YouTube Channel as a Software Developer](https://www.claudiobernasconi.ch/2019/03/20/starting-a-youtube-channel-as-a-software-developer/0)
 * [How to Create a Programming YouTube Channel - Lessons From 5 Years and 1 Million Subscribers](https://www.freecodecamp.org/news/how-to-start-a-software-youtube-channel-video-course/)
