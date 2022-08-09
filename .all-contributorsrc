@@ -123,6 +123,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Ezekiel8807",
+      "name": "Ezefizzy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57665815?v=4",
+      "profile": "https://ezefizzy.herokuapp.com",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
