@@ -1,7 +1,7 @@
 # Awesome Technical Writing
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![](https://repository-images.githubusercontent.com/221308953/36034800-6311-11ea-8418-8a1a03c97d81)
@@ -217,6 +217,7 @@ Found an awesome technical writer, resource, article, blog, tool, video, speaker
     <td align="center"><a href="https://bluebricks.dev"><img src="https://avatars2.githubusercontent.com/u/8985674?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Thomas Vaillant</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=thomvaill" title="Documentation">📖</a></td>
     <td align="center"><a href="https://www.sipakov.com"><img src="https://avatars.githubusercontent.com/u/34224178?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rostyslav Sipakov</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=rsipakov" title="Documentation">📖</a></td>
     <td align="center"><a href="https://codewithlinda.com"><img src="https://avatars.githubusercontent.com/u/32891838?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Linda Ikechukwu</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=Linda-Ikechukwu" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://linkedin.com/in/sojin-samuel/"><img src="https://avatars.githubusercontent.com/u/77185816?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sojin</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=SojinSamuel" title="Documentation">📖</a></td>
   </tr>
 </table>
 
