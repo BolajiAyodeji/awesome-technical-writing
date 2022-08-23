@@ -132,6 +132,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "aucolins",
+      "name": "Colin Sheppard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25918652?v=4",
+      "profile": "https://github.com/aucolins",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
