@@ -155,13 +155,14 @@ Found an awesome technical writer, resource, article, blog, tool, video, speaker
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://www.patreon.com/bolajiayodeji"><img src="https://avatars2.githubusercontent.com/u/30334776?v=4" width="100px;" alt=""/><br /><sub><b>Bolaji Ayodeji</b></sub></a><br /><a href="#content-BolajiAyodeji" title="Content">🖋</a> <a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=BolajiAyodeji" title="Documentation">📖</a> <a href="#design-BolajiAyodeji" title="Design">🎨</a></td>
-    <td align="center"><a href="https://github.com/prachford"><img src="https://avatars2.githubusercontent.com/u/59001653?v=4" width="100px;" alt=""/><br /><sub><b>prachford</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=prachford" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.patreon.com/bolajiayodeji"><img src="https://avatars2.githubusercontent.com/u/30334776?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bolaji Ayodeji</b></sub></a><br /><a href="#content-BolajiAyodeji" title="Content">🖋</a> <a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=BolajiAyodeji" title="Documentation">📖</a> <a href="#design-BolajiAyodeji" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/prachford"><img src="https://avatars2.githubusercontent.com/u/59001653?v=4?s=100" width="100px;" alt=""/><br /><sub><b>prachford</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=prachford" title="Documentation">📖</a> <a href="https://github.com/BolajiAyodeji/awesome-technical-writing/issues?q=author%3Aprachford" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
-<!-- markdownlint-enable -->
+<!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ---
