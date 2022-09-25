@@ -127,7 +127,7 @@
 * [Microsoft Word](https://www.microsoft.com/en/microsoft-365/word) - Goes beyond checking spelling and grammar, intelligent suggestions is also included to assist you across documents, email, and on the web.
 * [Log4brains](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website.
 * [Antidote](https://www.antidote.info/en) - The corrector analyzes your text and flags any detections.
-* [LanguageTool](https://languagetool.org/) - Open-source writing assitant, an alternative to Grammarly.
+* [LanguageTool](https://languagetool.org/) - Open-source writing assistant, an alternative to Grammarly.
 * [HemingwayApp](https://hemingwayapp.com/) - Hemingway App makes your writing bold and clear. Helps fix long & complex sentences
 
 ## Conferences
