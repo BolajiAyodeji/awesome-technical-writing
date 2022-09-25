@@ -150,6 +150,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "duskmushroom",
+      "name": "DMoosh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106955770?v=4",
+      "profile": "https://github.com/duskmushroom",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
