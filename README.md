@@ -1,7 +1,7 @@
 # Awesome Technical Writing
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![](https://repository-images.githubusercontent.com/221308953/36034800-6311-11ea-8418-8a1a03c97d81)
@@ -226,6 +226,7 @@ Found an awesome technical writer, resource, article, blog, tool, video, speaker
     <tr>
       <td align="center"><a href="https://github.com/aucolins"><img src="https://avatars.githubusercontent.com/u/25918652?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Colin Sheppard</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/issues?q=author%3Aaucolins" title="Bug reports">🐛</a></td>
       <td align="center"><a href="http://bhupesh.me"><img src="https://avatars.githubusercontent.com/u/34342551?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bhupesh Varshney</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=Bhupesh-V" title="Documentation">📖</a></td>
+      <td align="center"><a href="https://github.com/duskmushroom"><img src="https://avatars.githubusercontent.com/u/106955770?v=4?s=100" width="100px;" alt=""/><br /><sub><b>DMoosh</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=duskmushroom" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
