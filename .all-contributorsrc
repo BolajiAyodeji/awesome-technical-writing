@@ -159,6 +159,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "BirdboyBolu",
+      "name": "Boluwatife Victor ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95125924?v=4",
+      "profile": "https://birdboybolu.github.io/BoluwatifeVictor/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -166,5 +175,6 @@
   "projectOwner": "BolajiAyodeji",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular"
 }
