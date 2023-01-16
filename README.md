@@ -103,6 +103,7 @@
 * [How to write technical blog posts](https://www.youtube.com/watch?v=YODPgBadj80)
 * [Technical Writing Portfolio](https://www.youtube.com/watch?v=68ddwfpXHrE)
 * [How to Document APIs Using Postman](https://youtu.be/d2WAKIKpKlE)
+
 ## Podcasts
 
 * [The Manuscript Podcast](https://brenobarreto.co/the-manuscript-podcast/) - The intersection of writing and the development of technology products.
