@@ -128,7 +128,6 @@
 * [Technical Writing Books: A Curated Collection of Books to Help You Be a Better Technical Writer](https://github.com/sixhobbits/technical-writing/blob/master/resources.md)
 * [Everything Technical Writing: Tips and Techniques that'll Help You Thrive as a Technical Writer in the Software Industry](https://www.everythingtechnicalwriting.com)
 * [GitLab Technical Writing Fundamentals](https://about.gitlab.com/handbook/product/ux/technical-writing/fundamentals)
-* [Becoming a Technical Writer at Google](https://developers.google.com/tech-writing/becoming)
 
 ## Videos
 
