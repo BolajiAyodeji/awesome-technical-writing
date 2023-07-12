@@ -128,6 +128,7 @@
 * [Technical Writing Books: A Curated Collection of Books to Help You Be a Better Technical Writer](https://github.com/sixhobbits/technical-writing/blob/master/resources.md)
 * [Everything Technical Writing: Tips and Techniques that'll Help You Thrive as a Technical Writer in the Software Industry](https://www.everythingtechnicalwriting.com)
 * [GitLab Technical Writing Fundamentals](https://about.gitlab.com/handbook/product/ux/technical-writing/fundamentals)
+* [AutoHotkey scripts for writing technical documentation](https://www.indoition.com/en/products/autohotkey-scripts-for-technical-documentation.htm)
 
 ## Videos
 
