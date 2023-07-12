@@ -177,6 +177,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "MarcAchtelig",
+      "name": "Marc Achtelig",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135845287?v=4",
+      "profile": "https://www.indoition.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -185,5 +194,6 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
-  "commitConvention": "angular"
+  "commitConvention": "angular",
+  "commitType": "docs"
 }
