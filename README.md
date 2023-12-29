@@ -1,7 +1,7 @@
 # Awesome Technical Writing
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![](https://repository-images.githubusercontent.com/221308953/36034800-6311-11ea-8418-8a1a03c97d81)
@@ -240,6 +240,7 @@ Found an awesome resource, article, book, tool, video, technical writer, speaker
       <td align="center" valign="top" width="14.28%"><a href="https://birdboybolu.github.io/BoluwatifeVictor/"><img src="https://avatars.githubusercontent.com/u/95125924?v=4?s=100" width="100px;" alt="Boluwatife Victor "/><br /><sub><b>Boluwatife Victor </b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=BirdboyBolu" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/neevcollege"><img src="https://avatars.githubusercontent.com/u/43855895?v=4?s=100" width="100px;" alt="neevcollege"/><br /><sub><b>neevcollege</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=neevcollege" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.indoition.com"><img src="https://avatars.githubusercontent.com/u/135845287?v=4?s=100" width="100px;" alt="Marc Achtelig"/><br /><sub><b>Marc Achtelig</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=MarcAchtelig" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://techgirltega.hashnode.dev/"><img src="https://avatars.githubusercontent.com/u/105987372?v=4?s=100" width="100px;" alt="Zion Ukpong"/><br /><sub><b>Zion Ukpong</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=tegacodess" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
