@@ -1,14 +1,21 @@
+<div align="center">
+  
 # Awesome Technical Writing
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![](https://repository-images.githubusercontent.com/221308953/36034800-6311-11ea-8418-8a1a03c97d81)
 
-> Technical writing is writing or drafting technical communication used in technical and occupational fields, such as computer hardware and software, engineering, chemistry, aeronautics, robotics, finance, medical, consumer electronics, biotechnology, and forestry. ~ [Wikipedia](https://en.wikipedia.org/wiki/Technical_writing)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section --> [![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-) <!-- ALL-CONTRIBUTORS-BADGE:END --> [![Made in Nigeria](https://img.shields.io/badge/Made%20in-Nigeria-008751.svg?style=flat-square)](https://github.com/BolajiAyodeji/awesome-technical-writing)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) lists*
+*This list is inspired by the [awesome](https://github.com/sindresorhus/awesome) and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) lists.*
+
+</div>
+
+---
+
+> [!TIP]
+> Technical writing is the writing of technical content used in technical and occupational fields, such as computer hardware and software, engineering, chemistry, aeronautics, robotics, finance, medical, biotechnology, etc. ~ [Wikipedia](https://en.wikipedia.org/wiki/Technical_writing)
+
+---
 
 ## Table of Contents
 
@@ -24,6 +31,8 @@
 - [Speaker Decks](#speaker-decks)
 - [Technical Writers to Follow](#some-technical-writers-to-follow)
 
+---
+
 ## Community
 
 * [Hashnode](https://hashnode.com)
@@ -33,10 +42,10 @@
 * [ycombinator News](https://news.ycombinator.com)
 * [DEV](https://dev.to)
 * [Hackernoon](https://hackernoon.com)
-* [Write the Docs ](https://writethedocs.org)
+* [Write the Docs](https://writethedocs.org)
 * [The Good Docs Project](https://thegooddocsproject.dev)
-* [LinkedIn Technical Writing Community](https://www.linkedin.com/groups/13705342)
-* [Society for Technical Communication](https://www.stc.org)
+* [LinkedIn Technical Writing Community](https://linkedin.com/groups/13705342)
+* [Society for Technical Communication](https://stc.org)
 * [The Manuscript Academy](https://manuscriptacademy.com)
 
 
@@ -46,10 +55,10 @@
 * [Tech Writing for Accessibility](https://developers.google.com/tech-writing/accessibility)
 * [Writing Helpful Error Messages](https://developers.google.com/tech-writing/error-messages)
 * [Technical Writing: Documentation on Software Projects](https://www.pluralsight.com/courses/technical-writing-software-documentation)
-* [Coding for Writers: Basic Programming](https://www.udemy.com/course/coding-for-writers-1-basic-programming)
-* [Class Central Technical Writing](https://www.classcentral.com/course/technical-writing-7117)
-* [Professional Technical Writing: Advance Your Writing Skills](https://www.udemy.com/technical-writing-and-editing)
-* [Technical Writing: Master Your Writing Career](https://www.udemy.com/technical-writing)
+* [Coding for Writers: Basic Programming](https://udemy.com/course/coding-for-writers-1-basic-programming)
+* [Class Central Technical Writing](https://classcentral.com/course/technical-writing-7117)
+* [Professional Technical Writing: Advance Your Writing Skills](https://udemy.com/technical-writing-and-editing)
+* [Technical Writing: Master Your Writing Career](https://udemy.com/technical-writing)
 * [English 305: Advanced Technical Writing](https://study.com/academy/course/technical-writing-course.html)
 * [Technical Communication Techniques and Principles for Project Managers](https://ce.uwec.edu/programs/technical-communication-techniques-and-principles-project-managers)
 * [Documenting APIs: A Guide for Technical Writers](https://idratherbewriting.com/learnapidoc)
@@ -82,10 +91,11 @@
 
 ## Useful Tools
 
-* [technical-writing-template](https://github.com/BolajiAyodeji/technical-writing-template) - A sample template with guidelines for writing technical articles.
+* [Technical Writing Template](https://github.com/BolajiAyodeji/technical-writing-template) - A sample template with guidelines for writing technical articles.
 * [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) - A list of companies that have paid developer community writer programs.
 * [Who Pays Technical Writers?](https://whopaystechnicalwriters.com/?) - A curated collection of active publishers, publications, and agencies that pay fair rates for high-quality technical content.
-* [HackMD](https://hackmd.io/) - Real-time collaborate on technical documentation in markdown.
+* [Diátaxis Documentation System](https://diataxis.fr) - A systematic approach to creating better documentation.
+* [HackMD](https://hackmd.io) - Real-time collaborate on technical documentation in markdown.
 * [Dropbox Paper](https://dropbox.com/paper) - A flexible workspace for collaborative document-editing.
 * [Google Docs](https://docs.google.com) - Smart editing and styling tools to help you easily format text and paragraphs.
 * [Notion](https://notion.so) - The all-in-one workspace for your notes, tasks, wikis and databases.
@@ -99,7 +109,7 @@
 * [Capture to a Gif](https://chrome.google.com/webstore/detail/capture-to-a-gif/eapecadlmfblmnfnojebefkbginhggeh) - Record content of pages to an animated gif picture from browser.
 * [Microsoft Word](https://www.microsoft.com/en/microsoft-365/word) - Spelling, grammar, and intelligent suggestions to assist you across documents, email, and on the web.
 * [Log4brains](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website.
-* [Antidote](https://www.antidote.info/en) - The corrector analyzes your text and flags any detections.
+* [Antidote](https://www.antidote.info) - The corrector analyzes your text and flags any detections.
 * [LanguageTool](https://languagetool.org) - Open-source writing assistant, an alternative to Grammarly.
 * [HemingwayApp](https://hemingwayapp.com) - Hemingway App makes your writing bold and clear. Helps fix long & complex sentences.
 * [ChatGPT](https://chat.openai.com) - A conversational chatbot that can generate human-like responses to natural language prompts.
