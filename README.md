@@ -53,6 +53,8 @@
 * [English 305: Advanced Technical Writing](https://study.com/academy/course/technical-writing-course.html)
 * [Technical Communication Techniques and Principles for Project Managers](https://ce.uwec.edu/programs/technical-communication-techniques-and-principles-project-managers)
 * [Documenting APIs: A Guide for Technical Writers](https://idratherbewriting.com/learnapidoc)
+* [Technical Writing Certification Course](https://aptlearn.io/courses/technical-writing-certification-course)
+* [Tech: Write & Earn](https://startuptrybe.trainercentralsite.com/course/techwriteearn)
 
 ## Books
 
