@@ -79,6 +79,7 @@
 * [The Product is Docs: Writing Technical Documentation in a Product Development Group](https://amzn.to/3m19xKL) by Christopher Gales and Splunk Documentation Team.
 * [Every Page Is Page One: Topic-Based Writing for Technical Communication and the Web](https://amzn.to/3KtMx1e) by Mark Baker.
 * [Modern Technical Writing: An Introduction to Software](https://amzn.to/3lYEq2H) by Andrew Etter.
+* [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) ([epub](https://jamesg.blog/book.epub)) by James Gallagher.
 
 ## Style Guides
 
