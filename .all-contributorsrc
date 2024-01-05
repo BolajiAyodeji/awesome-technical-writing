@@ -195,6 +195,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "capjamesg",
+      "name": "James",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37276661?v=4",
+      "profile": "http://jamesg.blog",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
