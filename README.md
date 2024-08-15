@@ -216,12 +216,12 @@
 
  </details>
 
-## Contributing
+> [!TIP]
+> Check out my [blog](https://blog.bolajiayodeji.com), [newsletter](https://bawd.bolajiayodeji.com), or say hi on [X (Twitter)](https://x.com/iambolajiayo).
+
+## Contributing ✨
 
 Found an awesome resource, article, book, tool, video, technical writer, speaker deck etc.? Please send in a pull request and follow the [contributors guidelines](/CONTRIBUTING.md). Thank you!
-
-
-## Contributors ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -266,12 +266,8 @@ Found an awesome resource, article, book, tool, video, technical writer, speaker
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
----
-
-**Check out my [blog](https://blog.bolajiayodeji.com), [newsletter](https://bawd.bolajiayodeji.com), or say *hi* on [Twitter](https://twitter.com/iambolajiayo).**
-
 ## License
 
-[Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing) © 2019 by [Bolaji Ayodeji](https://bolajiayodeji.com) is licensed under [Attribution 4.0 International]().
+[Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing) © 2019 by [Bolaji Ayodeji](https://bolajiayodeji.com) is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0) license.
 
-<img style="height:30px!important" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"> <img style="height:30px!important" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
