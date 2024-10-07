@@ -82,6 +82,7 @@
 * [Every Page Is Page One: Topic-Based Writing for Technical Communication and the Web](https://amzn.to/3KtMx1e) by Mark Baker.
 * [Modern Technical Writing: An Introduction to Software](https://amzn.to/3lYEq2H) by Andrew Etter.
 * [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) by James Gallagher.
+* [Learning Git: A Hands-On and Visual Guide to the Basics of Git](https://www.oreilly.com/library/view/learning-git/9781098133900/) by Anna Skoulikari.
 
 ## Style Guides
 
