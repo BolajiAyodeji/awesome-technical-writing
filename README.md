@@ -117,7 +117,6 @@
 * [HemingwayApp](https://hemingwayapp.com) - Hemingway App makes your writing bold and clear. Helps fix long & complex sentences.
 * [ChatGPT](https://chat.openai.com) - A conversational chatbot that can generate human-like responses to natural language prompts.
 * [TextCraft](https://github.com/suncloudsmoon/TextCraft) - Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface.
-* [adoc Studio](https://www.adoc-studio.app) - AsciiDoc editor for Mac, iPad & iPhone with seamless HTML and PDF exports – no Terminal required, all output formats use the same stylesheet (unlike Asciidoctor which requires several stylesheets, one for each format)
 
 ## Resources
 
@@ -146,6 +145,7 @@
 * [Everything Technical Writing: Tips and Techniques that'll Help You Thrive as a Technical Writer in the Software Industry](https://www.everythingtechnicalwriting.com)
 * [GitLab Technical Writing Fundamentals](https://about.gitlab.com/handbook/product/ux/technical-writing/fundamentals)
 * [AutoHotkey scripts for writing technical documentation](https://www.indoition.com/en/products/autohotkey-scripts-for-technical-documentation.htm)
+* [A Comprehensive Guide to Technical Writing](https://www.adoc-studio.app/blog/technical-writing-guide)
 
 ## Videos
 
