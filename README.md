@@ -126,7 +126,7 @@
 * [Advice for Technical Writing](https://css-tricks.com/advice-for-technical-writing)
 * [Becoming a Technical Writer at Google](https://developers.google.com/tech-writing/becoming)
 * [15 Tips to Improve Your Technical Writing](https://thebestschools.org/magazine/technical-writing-tips)
-* [How to Become a Technical Writer: A Beginner’s Guide](https://instructionalsolutions.com/blog/become-a-technical-writer)
+* [How to Become a Technical Writer: A Beginner’s Guide](https://www.instructionalsolutions.com/blog/become-a-technical-writer)
 * [How to Create Cover Images for Your Devblog Posts](https://townhall.hashnode.com/how-to-create-cover-images-for-your-devblog-posts-cjyo53edo000heys1p7iuylpw)
 * [Introducing Google Season of Docs](https://developers.google.com/season-of-docs/docs)
 * [How to Start a Software YouTube Channel](https://freecodecamp.org/news/how-to-start-a-software-youtube-channel)
