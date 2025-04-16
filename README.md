@@ -117,7 +117,7 @@
 * [HemingwayApp](https://hemingwayapp.com) - Hemingway App makes your writing bold and clear. Helps fix long & complex sentences.
 * [ChatGPT](https://chat.openai.com) - A conversational chatbot that can generate human-like responses to natural language prompts.
 * [TextCraft](https://github.com/suncloudsmoon/TextCraft) - Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface.
-* [adoc Studio](https://www.adoc-studio.app) - AsciiDoc editor for Mac, iPad & iPhone with seamless HTML and PDF exports – no Terminal required, all output formats use the same stylesheet (unlike Asciidoctor which requires several stylesheets, one for each format)
+* [adoc Studio](https://adoc-studio.app) - AsciiDoc studio is an integrated writing environment for structured texts using AsciiDoc.
 
 ## Resources
 
