@@ -146,6 +146,7 @@
 * [Everything Technical Writing: Tips and Techniques that'll Help You Thrive as a Technical Writer in the Software Industry](https://www.everythingtechnicalwriting.com)
 * [GitLab Technical Writing Fundamentals](https://about.gitlab.com/handbook/product/ux/technical-writing/fundamentals)
 * [AutoHotkey scripts for writing technical documentation](https://www.indoition.com/en/products/autohotkey-scripts-for-technical-documentation.htm)
+* [A Comprehensive Guide to Technical Writing](https://www.adoc-studio.app/blog/technical-writing-guide)
 
 ## Videos
 
