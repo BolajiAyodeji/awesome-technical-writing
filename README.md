@@ -5,7 +5,7 @@
 ![](https://repository-images.githubusercontent.com/221308953/36034800-6311-11ea-8418-8a1a03c97d81)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made in Nigeria](https://img.shields.io/badge/Made%20in-Nigeria-008751.svg?style=flat-square)](https://github.com/BolajiAyodeji/awesome-technical-writing) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-25-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 *This list is inspired by the [awesome](https://github.com/sindresorhus/awesome) and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) lists.*
@@ -117,6 +117,7 @@
 * [HemingwayApp](https://hemingwayapp.com) - Hemingway App makes your writing bold and clear. Helps fix long & complex sentences.
 * [ChatGPT](https://chat.openai.com) - A conversational chatbot that can generate human-like responses to natural language prompts.
 * [TextCraft](https://github.com/suncloudsmoon/TextCraft) - Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface.
+* [adoc Studio](https://adoc-studio.app) - AsciiDoc studio is an integrated writing environment for structured texts using AsciiDoc.
 
 ## Resources
 
@@ -126,7 +127,7 @@
 * [Advice for Technical Writing](https://css-tricks.com/advice-for-technical-writing)
 * [Becoming a Technical Writer at Google](https://developers.google.com/tech-writing/becoming)
 * [15 Tips to Improve Your Technical Writing](https://thebestschools.org/magazine/technical-writing-tips)
-* [How to Become a Technical Writer: A Beginner’s Guide](https://instructionalsolutions.com/blog/become-a-technical-writer)
+* [How to Become a Technical Writer: A Beginner’s Guide](https://www.instructionalsolutions.com/blog/become-a-technical-writer)
 * [How to Create Cover Images for Your Devblog Posts](https://townhall.hashnode.com/how-to-create-cover-images-for-your-devblog-posts-cjyo53edo000heys1p7iuylpw)
 * [Introducing Google Season of Docs](https://developers.google.com/season-of-docs/docs)
 * [How to Start a Software YouTube Channel](https://freecodecamp.org/news/how-to-start-a-software-youtube-channel)
@@ -260,6 +261,8 @@ Found an awesome resource, article, book, tool, video, technical writer, speaker
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://jamesg.blog"><img src="https://avatars.githubusercontent.com/u/37276661?v=4?s=100" width="100px;" alt="James"/><br /><sub><b>James</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=capjamesg" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://suncloudsmoon.github.io/blog/"><img src="https://avatars.githubusercontent.com/u/34616349?v=4?s=100" width="100px;" alt="suncloudsmoon"/><br /><sub><b>suncloudsmoon</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=suncloudsmoon" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://kondz.io"><img src="https://avatars.githubusercontent.com/u/858917?v=4?s=100" width="100px;" alt="Konrad Talik"/><br /><sub><b>Konrad Talik</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=ktalik" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/MarvinBlome"><img src="https://avatars.githubusercontent.com/u/129289824?v=4?s=100" width="100px;" alt="MarvinBlome"/><br /><sub><b>MarvinBlome</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=MarvinBlome" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
