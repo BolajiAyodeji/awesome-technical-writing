@@ -91,6 +91,7 @@
 * [Google Developer Documentation Style Guide](https://developers.google.com/style)
 * [Chicago Manual of Style](https://chicagomanualofstyle.org/home.html)
 * [University of Oxford Style Guide](https://ox.ac.uk/sites/files/oxford/media_wysiwyg/University%20of%20Oxford%20Style%20Guide.pdf)
+* [Dutch Style Guide](https://github.com/lboshuizen/dutch-style-guide)
 
 ## Useful Tools
 
