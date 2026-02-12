@@ -149,6 +149,7 @@
 * [GitLab Technical Writing Fundamentals](https://about.gitlab.com/handbook/product/ux/technical-writing/fundamentals)
 * [AutoHotkey scripts for writing technical documentation](https://www.indoition.com/en/products/autohotkey-scripts-for-technical-documentation.htm)
 * [A Comprehensive Guide to Technical Writing](https://www.adoc-studio.app/blog/technical-writing-guide)
+* [Awesome Code Docs](https://github.com/johnxie/awesome-code-docs)
 
 ## Videos
 
