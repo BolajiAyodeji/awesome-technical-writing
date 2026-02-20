@@ -99,13 +99,13 @@
 * [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) - A list of companies that have paid developer community writer programs.
 * [Who Pays Technical Writers?](https://whopaystechnicalwriters.com/?) - A curated collection of active publishers, publications, and agencies that pay fair rates for high-quality technical content.
 * [Diátaxis Documentation System](https://diataxis.fr) - A systematic approach to creating better documentation.
-* [HackMD](https://hackmd.io) - Real-time collaborate on technical documentation in markdown.
+* [HackMD](https://hackmd.io) - Real-time collaboration on technical documentation in markdown.
 * [Dropbox Paper](https://dropbox.com/paper) - A flexible workspace for collaborative document-editing.
 * [Google Docs](https://docs.google.com) - Smart editing and styling tools to help you easily format text and paragraphs.
 * [Notion](https://notion.so) - The all-in-one workspace for your notes, tasks, wikis and databases.
 * [Notion AI](https://otion.so/product/ai) - Leverage the limitless power of AI in any Notion page, write faster and augment your creativity.
 * [Grammarly](https://grammarly.com) - a writing assistant that goes deeper than grammar to offer you comprehensive writing feedback.
-* [Canva](https://canva.com) - A graphic design platform that allows you to create social media graphics, and other visual content.
+* [Canva](https://canva.com) - A graphic design platform that allows you to create social media graphics and other visual content.
 * [TinyPNG](https://tinypng.com) - Smart PNG and JPEG image compression.
 * [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en) - The simplest way to take a full page screenshot of your current browser window.
 * [Awesome Screenshot: Screen Video Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) - Screen Capture full page screenshot and recorder for screencast.
@@ -113,13 +113,14 @@
 * [Capture to a Gif](https://chrome.google.com/webstore/detail/capture-to-a-gif/eapecadlmfblmnfnojebefkbginhggeh) - Record content of pages to an animated gif picture from browser.
 * [Microsoft Word](https://www.microsoft.com/en/microsoft-365/word) - Spelling, grammar, and intelligent suggestions to assist you across documents, email, and on the web.
 * [Log4brains](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website.
-* [Antidote](https://www.antidote.info) - The corrector analyzes your text and flags any detections.
+* [Antidote](https://www.antidote.info) - The corrector analyses your text and flags any detections.
 * [LanguageTool](https://languagetool.org) - Open-source writing assistant, an alternative to Grammarly.
 * [HemingwayApp](https://hemingwayapp.com) - Hemingway App makes your writing bold and clear. Helps fix long & complex sentences.
 * [ChatGPT](https://chat.openai.com) - A conversational chatbot that can generate human-like responses to natural language prompts.
 * [TextCraft](https://github.com/suncloudsmoon/TextCraft) - Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface.
 * [adoc Studio](https://adoc-studio.app) - AsciiDoc studio is an integrated writing environment for structured texts using AsciiDoc.
 * [Crosspost](https://trycrosspost.com) - Crosspost helps you write, import and publish articles to multiple platforms like Medium, Ghost, Hashnode, Dev.to and more at once. Write once, publish everywhere.
+* [Heroshot](https://github.com/omachala/heroshot) - Screenshot automation for documentation with a visual element picker and theme-aware output.
 
 ## Resources
 
