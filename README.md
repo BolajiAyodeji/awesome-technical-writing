@@ -5,7 +5,7 @@
 ![](https://repository-images.githubusercontent.com/221308953/36034800-6311-11ea-8418-8a1a03c97d81)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made in Nigeria](https://img.shields.io/badge/Made%20in-Nigeria-008751.svg?style=flat-square)](https://github.com/BolajiAyodeji/awesome-technical-writing) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 *This list is inspired by the [awesome](https://github.com/sindresorhus/awesome) and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) lists.*
@@ -118,9 +118,10 @@
 * [HemingwayApp](https://hemingwayapp.com) - Hemingway App makes your writing bold and clear. Helps fix long & complex sentences.
 * [ChatGPT](https://chat.openai.com) - A conversational chatbot that can generate human-like responses to natural language prompts.
 * [TextCraft](https://github.com/suncloudsmoon/TextCraft) - Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface.
-* [adoc Studio](https://adoc-studio.app) - AsciiDoc studio is an integrated writing environment for structured texts using AsciiDoc.
+* [adoc Studio](https://adoc-studio.app) - adoc Studio is an integrated writing environment for structured texts using AsciiDoc.
 * [Crosspost](https://trycrosspost.com) - Crosspost helps you write, import and publish articles to multiple platforms like Medium, Ghost, Hashnode, Dev.to and more at once. Write once, publish everywhere.
 * [Heroshot](https://github.com/omachala/heroshot) - Screenshot automation for documentation with a visual element picker and theme-aware output.
+* [EkLine](https://ekline.io) - Documentation quality automation. Enforces style guides on PRs, validates links, flags outdated content, and helps draft new docs.
 
 ## Resources
 
@@ -268,6 +269,7 @@ Found an awesome resource, article, book, tool, video, technical writer, speaker
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/MarvinBlome"><img src="https://avatars.githubusercontent.com/u/129289824?v=4?s=100" width="100px;" alt="MarvinBlome"/><br /><sub><b>MarvinBlome</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=MarvinBlome" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/lboshuizen"><img src="https://avatars.githubusercontent.com/u/1190582?v=4?s=100" width="100px;" alt="Leon Boshuizen"/><br /><sub><b>Leon Boshuizen</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=lboshuizen" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://coleruche.com"><img src="https://avatars.githubusercontent.com/u/43896019?v=4?s=100" width="100px;" alt="Emeruche Ikenna Okpo"/><br /><sub><b>Emeruche Ikenna Okpo</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=kingingcole" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/brimal-ekline"><img src="https://avatars.githubusercontent.com/u/245338426?v=4?s=100" width="100px;" alt="brimal-ekline"/><br /><sub><b>brimal-ekline</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=brimal-ekline" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
