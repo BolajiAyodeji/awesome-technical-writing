@@ -5,7 +5,7 @@
 ![](https://repository-images.githubusercontent.com/221308953/36034800-6311-11ea-8418-8a1a03c97d81)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made in Nigeria](https://img.shields.io/badge/Made%20in-Nigeria-008751.svg?style=flat-square)](https://github.com/BolajiAyodeji/awesome-technical-writing) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 *This list is inspired by the [awesome](https://github.com/sindresorhus/awesome) and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) lists.*
@@ -270,6 +270,9 @@ Found an awesome resource, article, book, tool, video, technical writer, speaker
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/lboshuizen"><img src="https://avatars.githubusercontent.com/u/1190582?v=4?s=100" width="100px;" alt="Leon Boshuizen"/><br /><sub><b>Leon Boshuizen</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=lboshuizen" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://coleruche.com"><img src="https://avatars.githubusercontent.com/u/43896019?v=4?s=100" width="100px;" alt="Emeruche Ikenna Okpo"/><br /><sub><b>Emeruche Ikenna Okpo</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=kingingcole" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/brimal-ekline"><img src="https://avatars.githubusercontent.com/u/245338426?v=4?s=100" width="100px;" alt="brimal-ekline"/><br /><sub><b>brimal-ekline</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=brimal-ekline" title="Documentation">📖</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/omachala"><img src="https://avatars.githubusercontent.com/u/12064285?v=4?s=100" width="100px;" alt="Ondrej Machala"/><br /><sub><b>Ondrej Machala</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=omachala" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>

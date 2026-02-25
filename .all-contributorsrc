@@ -258,6 +258,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "omachala",
+      "name": "Ondrej Machala",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12064285?v=4",
+      "profile": "https://github.com/omachala",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
