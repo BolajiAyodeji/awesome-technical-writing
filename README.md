@@ -70,7 +70,7 @@
 ## Books
 
 * [Docs for Developers: An Engineer’s Field Guide to Technical Writing](https://amzn.to/3SjaMRR) by Jared Bhatti, Zach Corleissen, Jen Lambourne, David Nuñez, and Heidi Waterhouse.
-* [The Developer's Guide to Content Creation](https://developersguidetocontent.com) by Stephanie Morillo.
+* [The Developer's Guide to Content Creation](https://www.goodreads.com/book/show/50996057-the-developer-s-guide-to-content-creation) by Stephanie Morillo.
 * [The Developer's Guide to Creating a Successful Blog](https://gumroad.com/l/successfulblog) by Flavio Copes.
 * [Everybody Writes: Your New and Improved Go-To Guide to Creating Ridiculously Good Content](https://amzn.to/3Z3EgVY) by Ann Handley.
 * [Technical Writing for Dummies](https://amzn.to/3XU6Bx1) by Sheryl Lindsell-Roberts.
