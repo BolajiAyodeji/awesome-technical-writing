@@ -116,6 +116,7 @@
 * [Antidote](https://www.antidote.info) - The corrector analyses your text and flags any detections.
 * [LanguageTool](https://languagetool.org) - Open-source writing assistant, an alternative to Grammarly.
 * [HemingwayApp](https://hemingwayapp.com) - Hemingway App makes your writing bold and clear. Helps fix long & complex sentences.
+* [ProseScore](https://prosescore.ckmtools.dev/) - Free browser-based readability analyzer with 8 formulas, sentiment analysis, keyword extraction, and SEO scoring. Privacy-first, runs entirely client-side.
 * [ChatGPT](https://chat.openai.com) - A conversational chatbot that can generate human-like responses to natural language prompts.
 * [TextCraft](https://github.com/suncloudsmoon/TextCraft) - Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface.
 * [adoc Studio](https://adoc-studio.app) - adoc Studio is an integrated writing environment for structured texts using AsciiDoc.
