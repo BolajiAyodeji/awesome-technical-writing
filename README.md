@@ -122,6 +122,7 @@
 * [Crosspost](https://trycrosspost.com) - Crosspost helps you write, import and publish articles to multiple platforms like Medium, Ghost, Hashnode, Dev.to and more at once. Write once, publish everywhere.
 * [Heroshot](https://github.com/omachala/heroshot) - Screenshot automation for documentation with a visual element picker and theme-aware output.
 * [EkLine](https://ekline.io) - Documentation quality automation. Enforces style guides on PRs, validates links, flags outdated content, and helps draft new docs.
+* [JustBlogged](https://justblogged.com) - A no-setup blogging platform with built-in SEO, custom domains, and beautiful themes. Sign up, pick a name, and start publishing technical content in minutes.
 
 ## Resources
 
