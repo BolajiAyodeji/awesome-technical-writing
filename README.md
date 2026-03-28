@@ -69,7 +69,7 @@
 
 ## Books
 
-* [Docs for Developers: An Engineer’s Field Guide to Technical Writing](https://amzn.to/3SjaMRR) by Jared Bhatti, Zach Corleissen, Jen Lambourne, David Nuñez, and Heidi Waterhouse.
+* [Docs for Developers: An Engineer's Field Guide to Technical Writing](https://amzn.to/3SjaMRR) by Jared Bhatti, Zach Corleissen, Jen Lambourne, David Nuñez, and Heidi Waterhouse.
 * [The Developer's Guide to Content Creation](https://developersguidetocontent.com) by Stephanie Morillo.
 * [The Developer's Guide to Creating a Successful Blog](https://gumroad.com/l/successfulblog) by Flavio Copes.
 * [Everybody Writes: Your New and Improved Go-To Guide to Creating Ridiculously Good Content](https://amzn.to/3Z3EgVY) by Ann Handley.
@@ -113,6 +113,7 @@
 * [Capture to a Gif](https://chrome.google.com/webstore/detail/capture-to-a-gif/eapecadlmfblmnfnojebefkbginhggeh) - Record content of pages to an animated gif picture from browser.
 * [Microsoft Word](https://www.microsoft.com/en/microsoft-365/word) - Spelling, grammar, and intelligent suggestions to assist you across documents, email, and on the web.
 * [Log4brains](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website.
+* [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagram rendering, QuickLook extension, and syntax highlighting for 190+ languages.
 * [Antidote](https://www.antidote.info) - The corrector analyses your text and flags any detections.
 * [LanguageTool](https://languagetool.org) - Open-source writing assistant, an alternative to Grammarly.
 * [HemingwayApp](https://hemingwayapp.com) - Hemingway App makes your writing bold and clear. Helps fix long & complex sentences.
@@ -131,7 +132,7 @@
 * [Advice for Technical Writing](https://css-tricks.com/advice-for-technical-writing)
 * [Becoming a Technical Writer at Google](https://developers.google.com/tech-writing/becoming)
 * [15 Tips to Improve Your Technical Writing](https://thebestschools.org/magazine/technical-writing-tips)
-* [How to Become a Technical Writer: A Beginner’s Guide](https://www.instructionalsolutions.com/blog/become-a-technical-writer)
+* [How to Become a Technical Writer: A Beginner's Guide](https://www.instructionalsolutions.com/blog/become-a-technical-writer)
 * [How to Create Cover Images for Your Devblog Posts](https://townhall.hashnode.com/how-to-create-cover-images-for-your-devblog-posts-cjyo53edo000heys1p7iuylpw)
 * [Introducing Google Season of Docs](https://developers.google.com/season-of-docs/docs)
 * [How to Start a Software YouTube Channel](https://freecodecamp.org/news/how-to-start-a-software-youtube-channel)
@@ -142,7 +143,7 @@
 * [How to Improve the SEO of Your Devblog](https://townhall.hashnode.com/how-to-improve-the-seo-of-your-devblog-cjz191c0e00380ks1nbtpwh8f)
 * [Technical Writing: Why and How?](https://medium.com/the-andela-way/technical-writing-why-and-how-599f18477cef)
 * [Minimalist Approach to Technical Documentation](https://utwente.nl/en/bms/ist/minimalism)
-* [A beginner’s guide to writing documentation](https://writethedocs.org/guide/writing/beginners-guide-to-docs)
+* [A beginner's guide to writing documentation](https://writethedocs.org/guide/writing/beginners-guide-to-docs)
 * [Crash Course in APIs for Technical Writers](https://medium.com/@patford12/crash-course-in-apis-for-technical-writers-694b274a2ad8)
 * [Technical Writing: What and How?](https://edidiongasikpo.com/technical-writing-what-and-how-ckastwm2705xq4us1l0cbvv2h)
 * [Write For Us: A List of Companies Who Pay Freelancers for Writing Tutorials](https://github.com/sixhobbits/technical-writing/blob/master/write-for-us.md)
