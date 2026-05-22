@@ -55,7 +55,7 @@
 
 * [Google Technical Writing Courses](https://developers.google.com/tech-writing/overview)
 * [Tech Writing for Accessibility](https://developers.google.com/tech-writing/accessibility)
-* [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+* [TutorialSearch](https://tutorialsearch.io/browse/software-testing/technical-writing) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 * [Writing Helpful Error Messages](https://developers.google.com/tech-writing/error-messages)
 * [Technical Writing: Documentation on Software Projects](https://www.pluralsight.com/courses/technical-writing-software-documentation)
 * [Coding for Writers: Basic Programming](https://udemy.com/course/coding-for-writers-1-basic-programming)
