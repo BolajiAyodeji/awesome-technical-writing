@@ -122,6 +122,7 @@
 * [Crosspost](https://trycrosspost.com) - Crosspost helps you write, import and publish articles to multiple platforms like Medium, Ghost, Hashnode, Dev.to and more at once. Write once, publish everywhere.
 * [Heroshot](https://github.com/omachala/heroshot) - Screenshot automation for documentation with a visual element picker and theme-aware output.
 * [EkLine](https://ekline.io) - Documentation quality automation. Enforces style guides on PRs, validates links, flags outdated content, and helps draft new docs.
+* [ai-slop-detect](https://github.com/antydizajn/ai-slop-detect) - Free Python CLI that flags AI-generated text patterns in markdown and prose (em-dashes, ChatGPT phrases, punctuation density, zero-width unicode). EN+PL, MIT-licensed, GitHub Action included.
 
 ## Resources
 
