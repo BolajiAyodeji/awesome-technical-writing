@@ -110,6 +110,7 @@
 * [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en) - The simplest way to take a full page screenshot of your current browser window.
 * [Awesome Screenshot: Screen Video Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) - Screen Capture full page screenshot and recorder for screencast.
 * [Readme Markdown Generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files.
+* [Dev Launch Pack](https://github.com/aicompanyendlessinnovations/dev-launch-pack) - Free, MIT-licensed browser-based generators for developer documentation: README intros, changelogs, release notes, commit messages, pull request descriptions, API docs, and bug reports. No signup, runs client-side.
 * [Capture to a Gif](https://chrome.google.com/webstore/detail/capture-to-a-gif/eapecadlmfblmnfnojebefkbginhggeh) - Record content of pages to an animated gif picture from browser.
 * [Microsoft Word](https://www.microsoft.com/en/microsoft-365/word) - Spelling, grammar, and intelligent suggestions to assist you across documents, email, and on the web.
 * [Log4brains](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website.
