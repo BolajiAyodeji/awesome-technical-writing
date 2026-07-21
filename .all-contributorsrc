@@ -267,6 +267,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "devswha",
+      "name": "Hako",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25837994?v=4",
+      "profile": "http://devswha.xyz",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
