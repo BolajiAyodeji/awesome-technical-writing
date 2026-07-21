@@ -5,7 +5,7 @@
 ![](https://repository-images.githubusercontent.com/221308953/36034800-6311-11ea-8418-8a1a03c97d81)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made in Nigeria](https://img.shields.io/badge/Made%20in-Nigeria-008751.svg?style=flat-square)](https://github.com/BolajiAyodeji/awesome-technical-writing) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-39-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-40-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 *This list is inspired by the [awesome](https://github.com/sindresorhus/awesome) and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) lists.*
@@ -320,6 +320,7 @@ Found an awesome resource, article, book, tool, video, technical writer, speaker
       <td align="center" valign="top" width="14.28%"><a href="https://seoulstart.com"><img src="https://avatars.githubusercontent.com/u/107298953?v=4?s=100" width="100px;" alt="Howard Park"/><br /><sub><b>Howard Park</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=hwajongpark" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/antydizajn"><img src="https://avatars.githubusercontent.com/u/205542118?v=4?s=100" width="100px;" alt="antydizajn"/><br /><sub><b>antydizajn</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=antydizajn" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://olayiwola-akinnagbe.netlify.app/"><img src="https://avatars.githubusercontent.com/u/40915435?v=4?s=100" width="100px;" alt="Olayiwola Akinnagbe"/><br /><sub><b>Olayiwola Akinnagbe</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=Olayiwola72" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://photoenhancer.dev/"><img src="https://avatars.githubusercontent.com/u/10556426?v=4?s=100" width="100px;" alt="cser700"/><br /><sub><b>cser700</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=cser700" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
