@@ -1,0 +1,20 @@
+name: Auto Add Contributor
+
+on:
+  pull_request_target:
+    types: [closed]
+
+jobs:
+  add-contributor:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: plbstl/first-contribution@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          pr-merged-msg: "@all-contributors please add @{fc-author} for docs"
