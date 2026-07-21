@@ -162,6 +162,7 @@
 * [JustBlogged](https://justblogged.com) - A no-setup blogging platform with built-in SEO, custom domains, and beautiful themes. Sign up, pick a name, and start publishing technical content in minutes.
 * [ProseScore](https://prosescore.ckmtools.dev/) - Free browser-based readability analyser with 8 formulas, sentiment analysis, keyword extraction, and SEO scoring. Privacy-first, runs entirely client-side.
 * [Patina](https://github.com/devswha/patina) - Audits and rewrites AI-sounding technical writing while preserving meaning, claims, numbers, polarity, and causation.
+* [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert Excel, CSV, or pasted tables into Markdown locally in the browser.
 
 </details>
 
