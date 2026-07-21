@@ -5,7 +5,7 @@
 ![](https://repository-images.githubusercontent.com/221308953/36034800-6311-11ea-8418-8a1a03c97d81)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made in Nigeria](https://img.shields.io/badge/Made%20in-Nigeria-008751.svg?style=flat-square)](https://github.com/BolajiAyodeji/awesome-technical-writing) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-38-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 *This list is inspired by the [awesome](https://github.com/sindresorhus/awesome) and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) lists.*
@@ -66,6 +66,7 @@
 * [Documenting APIs: A Guide for Technical Writers](https://idratherbewriting.com/learnapidoc)
 * [Technical Writing Certification Course](https://aptlearn.io/courses/technical-writing-certification-course)
 * [Tech: Write & Earn](https://startuptrybe.trainercentralsite.com/course/techwriteearn)
+* [Technical Writing Tutorials for Software Testing](https://tutorialsearch.io/browse/software-testing/technical-writing)
 
 ## Books
 
@@ -123,6 +124,17 @@
 * [Heroshot](https://github.com/omachala/heroshot) - Screenshot automation for documentation with a visual element picker and theme-aware output.
 * [EkLine](https://ekline.io) - Documentation quality automation. Enforces style guides on PRs, validates links, flags outdated content, and helps draft new docs.
 * [Tablesmit](https://tablesmit.com) - A minimalist table builder for analytical writing. Create, format, and export structured tables for technical documentation. Open source and free.
+* [Slopless](https://github.com/seochecks-ai/slopless) - Deterministic textlint preset and CLI to flag AI-generated and padded English prose without calling an LLM.
+* [ai-slop-detect](https://github.com/antydizajn/ai-slop-detect) - Free Python CLI that flags AI-generated text patterns in markdown and prose (em-dashes, ChatGPT phrases, punctuation density, zero-width unicode).
+* [Slop-Gate](https://github.com/hwajongpark/slop-gate) - CLI that flags AI writing-tells (em-dashes and filler words like "delve" and "seamless") in prose before you publish, locally or in CI.
+* [NRG](https://github.com/nanolaba/readme-generator) - Multi-language README generator with widgets (CLI, Maven plugin, Java library).
+* [BeLikeNative Writing Assistant](https://github.com/theluckystrike/bln-writing-assistant) - Open-source writing quality analyzer with L1-aware grammar suggestions for non-native English speakers.
+* [unslop](https://github.com/MohamedAbdallah-14/unslop) - A Claude Code plugin that removes AI writing patterns from text — tricolons, em-dash pileups, hedging stacks, sycophancy openers, stock vocabulary.
+* [Sourcey](https://sourcey.com) - Open source documentation platform for OpenAPI specs and markdown.
+* [Trupeer](https://www.trupeer.ai/) - AI-powered tool that transforms screen recordings into polished product videos and step-by-step documentation.
+* [JustBlogged](https://justblogged.com) - A no-setup blogging platform with built-in SEO, custom domains, and beautiful themes. Sign up, pick a name, and start publishing technical content in minutes.
+* [ProseScore](https://prosescore.ckmtools.dev/) - Free browser-based readability analyzer with 8 formulas, sentiment analysis, keyword extraction, and SEO scoring. Privacy-first, runs entirely client-side.
+* [Patina](https://github.com/devswha/patina) - Audits and rewrites AI-sounding technical writing while preserving meaning, claims, numbers, polarity, and causation.
 
 ## Resources
 
@@ -274,6 +286,18 @@ Found an awesome resource, article, book, tool, video, technical writer, speaker
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/omachala"><img src="https://avatars.githubusercontent.com/u/12064285?v=4?s=100" width="100px;" alt="Ondrej Machala"/><br /><sub><b>Ondrej Machala</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=omachala" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://devswha.xyz"><img src="https://avatars.githubusercontent.com/u/25837994?v=4?s=100" width="100px;" alt="Hako"/><br /><sub><b>Hako</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=devswha" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://ckmtools.dev"><img src="https://avatars.githubusercontent.com/u/265418744?v=4?s=100" width="100px;" alt="CKMTools"/><br /><sub><b>CKMTools</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=ckmtools" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://0state.com"><img src="https://avatars.githubusercontent.com/u/100876?v=4?s=100" width="100px;" alt="Kam"/><br /><sub><b>Kam</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=auscaster" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/MohamedAbdallah-14"><img src="https://avatars.githubusercontent.com/u/30629771?v=4?s=100" width="100px;" alt="Mohamed Abdallah"/><br /><sub><b>Mohamed Abdallah</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=MohamedAbdallah-14" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://zovo.one"><img src="https://avatars.githubusercontent.com/u/51033404?v=4?s=100" width="100px;" alt="Michael Lip"/><br /><sub><b>Michael Lip</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=theluckystrike" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/andriishin"><img src="https://avatars.githubusercontent.com/u/3613462?v=4?s=100" width="100px;" alt="alexander"/><br /><sub><b>alexander</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=andriishin" title="Documentation">📖</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://parish.cv"><img src="https://avatars.githubusercontent.com/u/8705495?v=4?s=100" width="100px;" alt="PariSh KhAn "/><br /><sub><b>PariSh KhAn </b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=ParishKhan" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://seoulstart.com"><img src="https://avatars.githubusercontent.com/u/107298953?v=4?s=100" width="100px;" alt="Howard Park"/><br /><sub><b>Howard Park</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=hwajongpark" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/etartakovsky/"><img src="https://avatars.githubusercontent.com/u/1624603?v=4?s=100" width="100px;" alt="Eugene Tartakovsky"/><br /><sub><b>Eugene Tartakovsky</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=tartakovsky" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/antydizajn"><img src="https://avatars.githubusercontent.com/u/205542118?v=4?s=100" width="100px;" alt="antydizajn"/><br /><sub><b>antydizajn</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=antydizajn" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
