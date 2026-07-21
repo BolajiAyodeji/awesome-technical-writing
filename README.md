@@ -22,15 +22,15 @@
 ## Table of Contents
 
 - [Community](#community)
+- [Style Guides](#style-guides)
 - [Courses](#courses)
 - [Books](#books)
-- [Style Guides](#style-guides)
-- [Useful Tools](#useful-tools)
-- [Resources](#resources)
-- [Videos](#videos)
 - [Podcasts](#podcasts)
 - [Conferences](#conferences)
 - [Speaker Decks](#speaker-decks)
+- [Useful Tools](#useful-tools)
+- [Resources](#resources)
+- [Videos](#videos)
 - [Technical Writers to Follow](#some-technical-writers-to-follow)
 
 ---
@@ -50,6 +50,16 @@
 * [Society for Technical Communication](https://stc.org)
 * [The Manuscript Academy](https://manuscriptacademy.com)
 
+
+## Style Guides
+
+* [Microsoft Manual of Style](https://ptgmedia.pearsoncmg.com/images/9780735648715/samplepages/9780735648715.pdf)
+* [IBM Editorial Style Guide](http://ptgmedia.pearsoncmg.com/images/9780132101301/samplepages/0132101300.pdf)
+* [The Red Hat Style Guide](https://stylepedia.net/style)
+* [Google Developer Documentation Style Guide](https://developers.google.com/style)
+* [Chicago Manual of Style](https://chicagomanualofstyle.org/home.html)
+* [University of Oxford Style Guide](https://ox.ac.uk/sites/files/oxford/media_wysiwyg/University%20of%20Oxford%20Style%20Guide.pdf)
+* [Dutch Style Guide](https://github.com/lboshuizen/dutch-style-guide)
 
 ## Courses
 
@@ -84,17 +94,34 @@
 * [Modern Technical Writing: An Introduction to Software](https://amzn.to/3lYEq2H) by Andrew Etter.
 * [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) by James Gallagher.
 
-## Style Guides
+## Podcasts
 
-* [Microsoft Manual of Style](https://ptgmedia.pearsoncmg.com/images/9780735648715/samplepages/9780735648715.pdf)
-* [IBM Editorial Style Guide](http://ptgmedia.pearsoncmg.com/images/9780132101301/samplepages/0132101300.pdf)
-* [The Red Hat Style Guide](https://stylepedia.net/style)
-* [Google Developer Documentation Style Guide](https://developers.google.com/style)
-* [Chicago Manual of Style](https://chicagomanualofstyle.org/home.html)
-* [University of Oxford Style Guide](https://ox.ac.uk/sites/files/oxford/media_wysiwyg/University%20of%20Oxford%20Style%20Guide.pdf)
-* [Dutch Style Guide](https://github.com/lboshuizen/dutch-style-guide)
+* [The Manuscript Podcast](https://brenobarreto.co/the-manuscript-podcast/) - The intersection of writing and the development of technology products.
+* [The Manuscript Academy Podcast](https://manuscriptacademy.com/podcast) - Interviews with agents and editors, how-to tips, and behind-the-scenes looks at the creation of the Academy.
+* [Write the Docs Podcast](https://podcast.writethedocs.org/) - The Write the Docs Podcast publishes discussion-style podcasts focusing on topics related to the Write the Docs community.
+* [The Not-Boring Tech Writer](https://www.thenotboringtechwriter.com/) - The Not-Boring Tech Writer podcast introduces technical writers' skills used in the open data movement.
 
-## Useful Tools
+## Conferences
+
+* [Write the Docs Conferences](https://writethedocs.org/conf)
+* [The LavaCon Content Strategy Conference ](https://lavacon.org)
+* [API the Docs](https://apithedocs.org)
+* [Technical Communication UK Metro Conference](http://technicalcommunicationuk.com)
+* [MadWorld](https://www.madcapsoftware.com/madworld-conferences)
+* [WritersUA West Content Pro Conference](http://west.writersua.com)
+
+## Speaker Decks
+
+* [Effective Documentation: The Key to Open Source Growth](https://slides.com/bolajiayodeji/effective-oss-docs)
+* [Technical Writing for Non-Writers](https://speakerdeck.com/taroth21/technical-writing-for-non-writers)
+* [Beyond The Editor: Automating Your Writing Process](https://slides.com/bolajiayodeji/beyond-the-editor)
+
+<details>
+<summary>
+  
+  ## Useful Tools
+  
+</summary>
 
 * [Technical Writing Template](https://github.com/BolajiAyodeji/technical-writing-template) - A sample template with guidelines for writing technical articles.
 * [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) - A list of companies that have paid developer community writer programs.
@@ -111,7 +138,7 @@
 * [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en) - The simplest way to take a full page screenshot of your current browser window.
 * [Awesome Screenshot: Screen Video Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) - Screen capture full-page screenshot and recorder for screencast.
 * [Readme Markdown Generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files.
-* [Capture to a Gif](https://chrome.google.com/webstore/detail/capture-to-a-gif/eapecadlmfblmnfnojebefkbginhggeh) - Record content of pages to an animated gif picture from browser.
+* [Capture to a Gif](https://chrome.google.com/webstore/detail/capture-to-a-gif/eapecadlmfblmnfnojebefkbginhggeh) - Record content of pages to an animated GIF picture from the browser.
 * [Microsoft Word](https://www.microsoft.com/en/microsoft-365/word) - Spelling, grammar, and intelligent suggestions to assist you across documents, email, and on the web.
 * [Log4brains](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website.
 * [Antidote](https://www.antidote.info) - The corrector analyses your text and flags any detections.
@@ -125,7 +152,7 @@
 * [EkLine](https://ekline.io) - Documentation quality automation. Enforces style guides on PRs, validates links, flags outdated content, and helps draft new docs.
 * [Tablesmit](https://tablesmit.com) - A minimalist table builder for analytical writing. Create, format, and export structured tables for technical documentation. Open source and free.
 * [Slopless](https://github.com/seochecks-ai/slopless) - Deterministic textlint preset and CLI to flag AI-generated and padded English prose without calling an LLM.
-* [ai-slop-detect](https://github.com/antydizajn/ai-slop-detect) - Free Python CLI that flags AI-generated text patterns in markdown and prose (em-dashes, ChatGPT phrases, punctuation density, zero-width unicode).
+* [ai-slop-detect](https://github.com/antydizajn/ai-slop-detect) - Free Python CLI that flags AI-generated text patterns in markdown and prose (em-dashes, ChatGPT phrases, punctuation density, zero-width Unicode).
 * [Slop-Gate](https://github.com/hwajongpark/slop-gate) - CLI that flags AI writing-tells (em-dashes and filler words like "delve" and "seamless") in prose before you publish, locally or in CI.
 * [NRG](https://github.com/nanolaba/readme-generator) - Multi-language README generator with widgets (CLI, Maven plugin, Java library).
 * [BeLikeNative Writing Assistant](https://github.com/theluckystrike/bln-writing-assistant) - Open-source writing quality analyzer with L1-aware grammar suggestions for non-native English speakers.
@@ -133,10 +160,17 @@
 * [Sourcey](https://sourcey.com) - Open source documentation platform for OpenAPI specs and markdown.
 * [Trupeer](https://www.trupeer.ai/) - AI-powered tool that transforms screen recordings into polished product videos and step-by-step documentation.
 * [JustBlogged](https://justblogged.com) - A no-setup blogging platform with built-in SEO, custom domains, and beautiful themes. Sign up, pick a name, and start publishing technical content in minutes.
-* [ProseScore](https://prosescore.ckmtools.dev/) - Free browser-based readability analyzer with 8 formulas, sentiment analysis, keyword extraction, and SEO scoring. Privacy-first, runs entirely client-side.
+* [ProseScore](https://prosescore.ckmtools.dev/) - Free browser-based readability analyser with 8 formulas, sentiment analysis, keyword extraction, and SEO scoring. Privacy-first, runs entirely client-side.
 * [Patina](https://github.com/devswha/patina) - Audits and rewrites AI-sounding technical writing while preserving meaning, claims, numbers, polarity, and causation.
 
-## Resources
+</details>
+
+<details>
+<summary>
+  
+  ## Resources
+  
+</summary>
 
 * [The Ultimate Guide to Content Creation](https://blog.hubspot.com/marketing/content-creation)
 * [How to Create Great Content: A Step-by-Step Guide to Content Marketing That Delivers Real Results](https://inc.com/jeff-haden/how-to-create-great-content-a-step-by-step-guide-to-content-marketing-that-delivers-real-results.html)
@@ -165,7 +199,14 @@
 * [AutoHotkey scripts for writing technical documentation](https://www.indoition.com/en/products/autohotkey-scripts-for-technical-documentation.htm)
 * [A Comprehensive Guide to Technical Writing](https://www.adoc-studio.app/blog/technical-writing-guide)
 
-## Videos
+</details>
+
+<details>
+<summary>
+  
+  ## Videos
+  
+</summary>
 
 * [Content Creation Strategies: How To Create Content Online](https://www.youtube.com/watch?v=APQoWEqezFc)
 * [How to start a Coding YouTube channel (with tips from a bunch of successful creators!)](https://www.youtube.com/watch?v=AsTagX5tG4E)
@@ -188,39 +229,19 @@
 * [Technical Writing Portfolio](https://www.youtube.com/watch?v=68ddwfpXHrE)
 * [How to Document APIs Using Postman](https://youtu.be/d2WAKIKpKlE)
 
-## Podcasts
-
-* [The Manuscript Podcast](https://brenobarreto.co/the-manuscript-podcast/) - The intersection of writing and the development of technology products.
-* [The Manuscript Academy Podcast](https://manuscriptacademy.com/podcast) - Interviews with agents and editors, how-to tips, and behind-the-scenes looks at the creation of the Academy.
-* [Write the Docs Podcast](https://podcast.writethedocs.org/) - The Write the Docs Podcast publishes discussion-style podcasts focusing on topics related to the Write the Docs community.
-* [The Not-Boring Tech Writer](https://www.thenotboringtechwriter.com/) - The Not-Boring Tech Writer podcast introduces technical writers skills used in the open data movement.
-
-## Conferences
-
-* [Write the Docs Conferences](https://writethedocs.org/conf)
-* [The LavaCon Content Strategy Conference ](https://lavacon.org)
-* [API the Docs](https://apithedocs.org)
-* [Technical Communication UK Metro Conference](http://technicalcommunicationuk.com)
-* [MadWorld](https://www.madcapsoftware.com/madworld-conferences)
-* [WritersUA West Content Pro Conference](http://west.writersua.com)
-
-## Speaker Decks
-
-* [Effective Documentation: The Key to Open Source Growth](https://slides.com/bolajiayodeji/effective-oss-docs)
-* [Technical Writing for Non-Writers](https://speakerdeck.com/taroth21/technical-writing-for-non-writers)
-* [Beyond The Editor: Automating Your Writing Process](https://slides.com/bolajiayodeji/beyond-the-editor)
+</details>
 
 <details>
   <summary>
-
+    
    ## Some Technical Writers to follow
-
+   
   </summary>
 
 | Name              | Link to Blog                                                             | Blog Niche                       | Link to Twitter                                       |
 |-------------------|--------------------------------------------------------------------------|----------------------------------|-------------------------------------------------------|
 | Bolaji Ayodeji    | https://blog.bolajiayodeji.com                   | Web/Data Engineering, JavaScript, Python, Machine Learning, and Ecommerce.  | [@iambolajiayo](https://twitter.com/iambolajiayo)     |
-| Angie Jones       | https://angiejones.tech                      | Test Automation, and Java.            | [@techgirl1908](https://twitter.com/techgirl1908)     |
+| Angie Jones       | https://angiejones.tech                      | Test Automation and Java.            | [@techgirl1908](https://twitter.com/techgirl1908)     |
 | Sarah Drasner     | https://sarah.dev/writing                  | Web Development, Vuejs, and SVGs.     | [@sarah_edo](https://twitter.com/sarah_edo)           |
 | Prosper Otemuyiwa | https://medium.com/@unicodeveloper | All things Technical and Magical.   | [@unicodeveloper](https://twitter.com/unicodeveloper) |
 | Ire Aderinokun    | https://bitsofco.de                             | Frontend Development and JavaScript. | [@ireaderinokun](https://twitter.com/ireaderinokun)   |
@@ -241,7 +262,7 @@
 
 ## Contributing ✨
 
-Found an awesome resource, article, book, tool, video, technical writer, speaker deck etc.? Please send in a pull request and follow the [contributors guidelines](/CONTRIBUTING.md). Thank you!
+Found an awesome resource, article, book, tool, video, technical writer, speaker deck, etc.? Please send in a pull request and follow the [contributors guidelines](/CONTRIBUTING.md). Thank you!
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
