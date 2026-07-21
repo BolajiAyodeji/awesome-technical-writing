@@ -312,6 +312,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "andriishin",
+      "name": "alexander",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3613462?v=4",
+      "profile": "https://github.com/andriishin",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
