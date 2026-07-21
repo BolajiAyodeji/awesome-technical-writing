@@ -128,6 +128,7 @@
 * [Who Pays Technical Writers?](https://whopaystechnicalwriters.com/?) - A curated collection of active publishers, publications, and agencies that pay fair rates for high-quality technical content.
 * [Diátaxis Documentation System](https://diataxis.fr) - A systematic approach to creating better documentation.
 * [HackMD](https://hackmd.io) - Real-time collaboration on technical documentation in Markdown.
+* [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert Excel, CSV, or pasted tables into Markdown locally in the browser.
 * [Dropbox Paper](https://dropbox.com/paper) - A flexible workspace for collaborative document editing.
 * [Google Docs](https://docs.google.com) - Smart editing and styling tools to help you easily format text and paragraphs.
 * [Notion](https://notion.so) - The all-in-one workspace for your notes, tasks, wikis and databases.
