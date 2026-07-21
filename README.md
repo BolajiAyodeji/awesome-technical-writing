@@ -105,7 +105,6 @@
 * [Notion](https://notion.so) - The all-in-one workspace for your notes, tasks, wikis and databases.
 * [Notion AI](https://otion.so/product/ai) - Leverage the limitless power of AI in any Notion page, write faster and augment your creativity.
 * [Grammarly](https://grammarly.com) - a writing assistant that goes deeper than grammar to offer you comprehensive writing feedback.
-* [BeLikeNative Writing Assistant](https://github.com/theluckystrike/bln-writing-assistant) - Open-source writing quality analyzer with L1-aware grammar suggestions for non-native English speakers. Available as a GitHub Action.
 * [Canva](https://canva.com) - A graphic design platform that allows you to create social media graphics and other visual content.
 * [TinyPNG](https://tinypng.com) - Smart PNG and JPEG image compression.
 * [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en) - The simplest way to take a full page screenshot of your current browser window.
@@ -123,6 +122,7 @@
 * [Crosspost](https://trycrosspost.com) - Crosspost helps you write, import and publish articles to multiple platforms like Medium, Ghost, Hashnode, Dev.to and more at once. Write once, publish everywhere.
 * [Heroshot](https://github.com/omachala/heroshot) - Screenshot automation for documentation with a visual element picker and theme-aware output.
 * [EkLine](https://ekline.io) - Documentation quality automation. Enforces style guides on PRs, validates links, flags outdated content, and helps draft new docs.
+* [BeLikeNative Writing Assistant](https://github.com/theluckystrike/bln-writing-assistant) - Open-source writing quality analyzer with L1-aware grammar suggestions for non-native English speakers.
 
 ## Resources
 
