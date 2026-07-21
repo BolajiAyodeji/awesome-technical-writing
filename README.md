@@ -71,7 +71,7 @@
 ## Books
 
 * [Docs for Developers: An Engineer’s Field Guide to Technical Writing](https://amzn.to/3SjaMRR) by Jared Bhatti, Zach Corleissen, Jen Lambourne, David Nuñez, and Heidi Waterhouse.
-* [The Developer's Guide to Content Creation](https://developersguidetocontent.com) by Stephanie Morillo.
+* [The Developer's Guide to Content Creation](https://www.stephaniemorillo.co/product-page/the-developer-s-guide-to-content-creation) by Stephanie Morillo.
 * [The Developer's Guide to Creating a Successful Blog](https://gumroad.com/l/successfulblog) by Flavio Copes.
 * [Everybody Writes: Your New and Improved Go-To Guide to Creating Ridiculously Good Content](https://amzn.to/3Z3EgVY) by Ann Handley.
 * [Technical Writing for Dummies](https://amzn.to/3XU6Bx1) by Sheryl Lindsell-Roberts.
@@ -100,8 +100,8 @@
 * [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) - A list of companies that have paid developer community writer programs.
 * [Who Pays Technical Writers?](https://whopaystechnicalwriters.com/?) - A curated collection of active publishers, publications, and agencies that pay fair rates for high-quality technical content.
 * [Diátaxis Documentation System](https://diataxis.fr) - A systematic approach to creating better documentation.
-* [HackMD](https://hackmd.io) - Real-time collaboration on technical documentation in markdown.
-* [Dropbox Paper](https://dropbox.com/paper) - A flexible workspace for collaborative document-editing.
+* [HackMD](https://hackmd.io) - Real-time collaboration on technical documentation in Markdown.
+* [Dropbox Paper](https://dropbox.com/paper) - A flexible workspace for collaborative document editing.
 * [Google Docs](https://docs.google.com) - Smart editing and styling tools to help you easily format text and paragraphs.
 * [Notion](https://notion.so) - The all-in-one workspace for your notes, tasks, wikis and databases.
 * [Notion AI](https://otion.so/product/ai) - Leverage the limitless power of AI in any Notion page, write faster and augment your creativity.
@@ -109,7 +109,7 @@
 * [Canva](https://canva.com) - A graphic design platform that allows you to create social media graphics and other visual content.
 * [TinyPNG](https://tinypng.com) - Smart PNG and JPEG image compression.
 * [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en) - The simplest way to take a full page screenshot of your current browser window.
-* [Awesome Screenshot: Screen Video Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) - Screen Capture full page screenshot and recorder for screencast.
+* [Awesome Screenshot: Screen Video Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) - Screen capture full-page screenshot and recorder for screencast.
 * [Readme Markdown Generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files.
 * [Capture to a Gif](https://chrome.google.com/webstore/detail/capture-to-a-gif/eapecadlmfblmnfnojebefkbginhggeh) - Record content of pages to an animated gif picture from browser.
 * [Microsoft Word](https://www.microsoft.com/en/microsoft-365/word) - Spelling, grammar, and intelligent suggestions to assist you across documents, email, and on the web.
