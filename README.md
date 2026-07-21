@@ -5,7 +5,7 @@
 ![](https://repository-images.githubusercontent.com/221308953/36034800-6311-11ea-8418-8a1a03c97d81)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made in Nigeria](https://img.shields.io/badge/Made%20in-Nigeria-008751.svg?style=flat-square)](https://github.com/BolajiAyodeji/awesome-technical-writing) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-33-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-34-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 *This list is inspired by the [awesome](https://github.com/sindresorhus/awesome) and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) lists.*
@@ -284,6 +284,7 @@ Found an awesome resource, article, book, tool, video, technical writer, speaker
       <td align="center" valign="top" width="14.28%"><a href="http://ckmtools.dev"><img src="https://avatars.githubusercontent.com/u/265418744?v=4?s=100" width="100px;" alt="CKMTools"/><br /><sub><b>CKMTools</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=ckmtools" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://0state.com"><img src="https://avatars.githubusercontent.com/u/100876?v=4?s=100" width="100px;" alt="Kam"/><br /><sub><b>Kam</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=auscaster" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/MohamedAbdallah-14"><img src="https://avatars.githubusercontent.com/u/30629771?v=4?s=100" width="100px;" alt="Mohamed Abdallah"/><br /><sub><b>Mohamed Abdallah</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=MohamedAbdallah-14" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://zovo.one"><img src="https://avatars.githubusercontent.com/u/51033404?v=4?s=100" width="100px;" alt="Michael Lip"/><br /><sub><b>Michael Lip</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=theluckystrike" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
