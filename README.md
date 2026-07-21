@@ -5,7 +5,7 @@
 ![](https://repository-images.githubusercontent.com/221308953/36034800-6311-11ea-8418-8a1a03c97d81)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made in Nigeria](https://img.shields.io/badge/Made%20in-Nigeria-008751.svg?style=flat-square)](https://github.com/BolajiAyodeji/awesome-technical-writing) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 *This list is inspired by the [awesome](https://github.com/sindresorhus/awesome) and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) lists.*
@@ -288,6 +288,9 @@ Found an awesome resource, article, book, tool, video, technical writer, speaker
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/MohamedAbdallah-14"><img src="https://avatars.githubusercontent.com/u/30629771?v=4?s=100" width="100px;" alt="Mohamed Abdallah"/><br /><sub><b>Mohamed Abdallah</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=MohamedAbdallah-14" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://zovo.one"><img src="https://avatars.githubusercontent.com/u/51033404?v=4?s=100" width="100px;" alt="Michael Lip"/><br /><sub><b>Michael Lip</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=theluckystrike" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/andriishin"><img src="https://avatars.githubusercontent.com/u/3613462?v=4?s=100" width="100px;" alt="alexander"/><br /><sub><b>alexander</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=andriishin" title="Documentation">📖</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://parish.cv"><img src="https://avatars.githubusercontent.com/u/8705495?v=4?s=100" width="100px;" alt="PariSh KhAn "/><br /><sub><b>PariSh KhAn </b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=ParishKhan" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
