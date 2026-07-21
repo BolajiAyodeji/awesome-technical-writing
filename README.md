@@ -123,6 +123,7 @@
 * [Crosspost](https://trycrosspost.com) - Crosspost helps you write, import and publish articles to multiple platforms like Medium, Ghost, Hashnode, Dev.to and more at once. Write once, publish everywhere.
 * [Heroshot](https://github.com/omachala/heroshot) - Screenshot automation for documentation with a visual element picker and theme-aware output.
 * [EkLine](https://ekline.io) - Documentation quality automation. Enforces style guides on PRs, validates links, flags outdated content, and helps draft new docs.
+* [ai-slop-detect](https://github.com/antydizajn/ai-slop-detect) - Free Python CLI that flags AI-generated text patterns in markdown and prose (em-dashes, ChatGPT phrases, punctuation density, zero-width unicode).
 * [Slop-Gate](https://github.com/hwajongpark/slop-gate) - CLI that flags AI writing-tells (em-dashes and filler words like "delve" and "seamless") in prose before you publish, locally or in CI.
 * [NRG](https://github.com/nanolaba/readme-generator) - Multi-language README generator with widgets (CLI, Maven plugin, Java library).
 * [BeLikeNative Writing Assistant](https://github.com/theluckystrike/bln-writing-assistant) - Open-source writing quality analyzer with L1-aware grammar suggestions for non-native English speakers.
