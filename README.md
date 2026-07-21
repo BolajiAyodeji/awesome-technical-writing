@@ -96,6 +96,7 @@
 ## Useful Tools
 
 * [Technical Writing Template](https://github.com/BolajiAyodeji/technical-writing-template) - A sample template with guidelines for writing technical articles.
+* [Community Story Game](https://emotionalintelligencedeveloper-glitch.github.io/mcn/eid-community-story-game.html) - A collaborative writing tool that lets people co-create stories together, one entry at a time.
 * [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) - A list of companies that have paid developer community writer programs.
 * [Who Pays Technical Writers?](https://whopaystechnicalwriters.com/?) - A curated collection of active publishers, publications, and agencies that pay fair rates for high-quality technical content.
 * [Diátaxis Documentation System](https://diataxis.fr) - A systematic approach to creating better documentation.
