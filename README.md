@@ -5,7 +5,7 @@
 ![](https://repository-images.githubusercontent.com/221308953/36034800-6311-11ea-8418-8a1a03c97d81)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made in Nigeria](https://img.shields.io/badge/Made%20in-Nigeria-008751.svg?style=flat-square)](https://github.com/BolajiAyodeji/awesome-technical-writing) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-31-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 *This list is inspired by the [awesome](https://github.com/sindresorhus/awesome) and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) lists.*
@@ -123,6 +123,10 @@
 * [Heroshot](https://github.com/omachala/heroshot) - Screenshot automation for documentation with a visual element picker and theme-aware output.
 * [EkLine](https://ekline.io) - Documentation quality automation. Enforces style guides on PRs, validates links, flags outdated content, and helps draft new docs.
 * [Sourcey](https://sourcey.com) - Open source documentation platform for OpenAPI specs and markdown.
+* [Trupeer](https://www.trupeer.ai/) - AI-powered tool that transforms screen recordings into polished product videos and step-by-step documentation.
+* [JustBlogged](https://justblogged.com) - A no-setup blogging platform with built-in SEO, custom domains, and beautiful themes. Sign up, pick a name, and start publishing technical content in minutes.
+* [ProseScore](https://prosescore.ckmtools.dev/) - Free browser-based readability analyzer with 8 formulas, sentiment analysis, keyword extraction, and SEO scoring. Privacy-first, runs entirely client-side.
+* [Patina](https://github.com/devswha/patina) - Audits and rewrites AI-sounding technical writing while preserving meaning, claims, numbers, polarity, and causation.
 
 ## Resources
 
@@ -274,6 +278,8 @@ Found an awesome resource, article, book, tool, video, technical writer, speaker
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/omachala"><img src="https://avatars.githubusercontent.com/u/12064285?v=4?s=100" width="100px;" alt="Ondrej Machala"/><br /><sub><b>Ondrej Machala</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=omachala" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://devswha.xyz"><img src="https://avatars.githubusercontent.com/u/25837994?v=4?s=100" width="100px;" alt="Hako"/><br /><sub><b>Hako</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=devswha" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://ckmtools.dev"><img src="https://avatars.githubusercontent.com/u/265418744?v=4?s=100" width="100px;" alt="CKMTools"/><br /><sub><b>CKMTools</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=ckmtools" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
