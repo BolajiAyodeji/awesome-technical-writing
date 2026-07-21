@@ -276,6 +276,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "ckmtools",
+      "name": "CKMTools",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265418744?v=4",
+      "profile": "http://ckmtools.dev",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
