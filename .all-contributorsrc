@@ -267,6 +267,78 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "devswha",
+      "name": "Hako",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25837994?v=4",
+      "profile": "http://devswha.xyz",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ckmtools",
+      "name": "CKMTools",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265418744?v=4",
+      "profile": "http://ckmtools.dev",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "auscaster",
+      "name": "Kam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100876?v=4",
+      "profile": "https://0state.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "MohamedAbdallah-14",
+      "name": "Mohamed Abdallah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30629771?v=4",
+      "profile": "https://github.com/MohamedAbdallah-14",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "theluckystrike",
+      "name": "Michael Lip",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51033404?v=4",
+      "profile": "https://zovo.one",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "andriishin",
+      "name": "alexander",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3613462?v=4",
+      "profile": "https://github.com/andriishin",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ParishKhan",
+      "name": "PariSh KhAn ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8705495?v=4",
+      "profile": "http://parish.cv",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "hwajongpark",
+      "name": "Howard Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107298953?v=4",
+      "profile": "https://seoulstart.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
