@@ -1,0 +1,48 @@
+name: Auto Add Contributor
+
+on:
+  pull_request_target:
+    types: [closed]
+
+jobs:
+  add-contributor:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      contents: write
+    steps:
+      - name: Check if first merged PR in this repo
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const prAuthor = context.payload.pull_request.user.login;
+            const currentPrNumber = context.payload.pull_request.number;
+            const repoOwner = context.repo.owner;
+            const repoName = context.repo.repo;
+
+            // Search for merged PRs by this author in ONLY this repo
+            const query = `repo:${repoOwner}/${repoName} is:pr is:merged author:${prAuthor}`;
+            const { data: searchResults } = await github.rest.search.issuesAndPullRequests({
+              q: query
+            });
+
+            // Filter out the current PR that just triggered this action
+            const pastMergedPRs = searchResults.items.filter(
+              item => item.number !== currentPrNumber
+            );
+
+            console.log(`Found ${pastMergedPRs.length} previous merged PRs for ${prAuthor} in this repo.`);
+
+            if (pastMergedPRs.length === 0) {
+              console.log(`${prAuthor} is a first-time contributor to ${repoOwner}/${repoName}!`);
+              
+              await github.rest.issues.createComment({
+                owner: repoOwner,
+                repo: repoName,
+                issue_number: currentPrNumber,
+                body: `@all-contributors please add @${prAuthor} for docs`
+              });
+            } else {
+              console.log(`${prAuthor} already has merged PRs here. Skipping.`);
+            }
