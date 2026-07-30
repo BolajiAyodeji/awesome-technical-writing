@@ -100,6 +100,7 @@
 * [The Manuscript Academy Podcast](https://manuscriptacademy.com/podcast) - Interviews with agents and editors, how-to tips, and behind-the-scenes looks at the creation of the Academy.
 * [Write the Docs Podcast](https://podcast.writethedocs.org/) - The Write the Docs Podcast publishes discussion-style podcasts focusing on topics related to the Write the Docs community.
 * [The Not-Boring Tech Writer](https://www.thenotboringtechwriter.com/) - The Not-Boring Tech Writer podcast introduces technical writers' skills used in the open data movement.
+* [Awesome Developer Podcasts](https://github.com/Infrasity-Labs/awesome-developer-podcasts): A community-curated directory of top podcasts for software engineers, developer advocates, and tech founders.
 
 ## Conferences
 
@@ -109,6 +110,7 @@
 * [Technical Communication UK Metro Conference](http://technicalcommunicationuk.com)
 * [MadWorld](https://www.madcapsoftware.com/madworld-conferences)
 * [WritersUA West Content Pro Conference](http://west.writersua.com)
+* [Awesome Developer Conferences](https://github.com/Infrasity-Labs/awesome-developer-conferences) A daily-updated directory of developer, cloud-native, and open-source conferences worldwide.
 
 ## Speaker Decks
 
@@ -200,7 +202,7 @@
 * [GitLab Technical Writing Fundamentals](https://about.gitlab.com/handbook/product/ux/technical-writing/fundamentals)
 * [AutoHotkey scripts for writing technical documentation](https://www.indoition.com/en/products/autohotkey-scripts-for-technical-documentation.htm)
 * [A Comprehensive Guide to Technical Writing](https://www.adoc-studio.app/blog/technical-writing-guide)
-
+* [Awesome Tech Newsletter](https://github.com/Infrasity-Labs/awesome-tech-newsletter): A community-curated directory of the best newsletters by and for software engineers, developer advocates, and technology founders.
 </details>
 
 <details>
