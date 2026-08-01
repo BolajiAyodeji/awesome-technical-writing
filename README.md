@@ -157,6 +157,7 @@
 * [NRG](https://github.com/nanolaba/readme-generator) - Multi-language README generator with widgets (CLI, Maven plugin, Java library).
 * [BeLikeNative Writing Assistant](https://github.com/theluckystrike/bln-writing-assistant) - Open-source writing quality analyzer with L1-aware grammar suggestions for non-native English speakers.
 * [unslop](https://github.com/MohamedAbdallah-14/unslop) - A Claude Code plugin that removes AI writing patterns from text — tricolons, em-dash pileups, hedging stacks, sycophancy openers, stock vocabulary.
+* * [KPainter](https://kpainter.ai/document-to-video) - Turns PDFs, PPT/PPTX files, Word documents, images, and public URLs into source-led explainer videos.
 * [Sourcey](https://sourcey.com) - Open source documentation platform for OpenAPI specs and markdown.
 * [Trupeer](https://www.trupeer.ai/) - AI-powered tool that transforms screen recordings into polished product videos and step-by-step documentation.
 * [JustBlogged](https://justblogged.com) - A no-setup blogging platform with built-in SEO, custom domains, and beautiful themes. Sign up, pick a name, and start publishing technical content in minutes.
