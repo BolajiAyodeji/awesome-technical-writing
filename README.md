@@ -164,6 +164,7 @@
 * [Patina](https://github.com/devswha/patina) - Audits and rewrites AI-sounding technical writing while preserving meaning, claims, numbers, polarity, and causation.
 * [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert Excel, CSV, or pasted tables into Markdown locally in the browser.
 * [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagram rendering, QuickLook extension, and syntax highlighting for 190+ languages.
+* [Markdown Table of Contents Generator](https://alltoolsverse.com/tools/markdown-table-of-contents/) - Generates linked navigation from Markdown headings with nested levels and duplicate-anchor handling.
 
 </details>
 
