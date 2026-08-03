@@ -141,6 +141,7 @@
 * [Capture to a Gif](https://chrome.google.com/webstore/detail/capture-to-a-gif/eapecadlmfblmnfnojebefkbginhggeh) - Record content of pages to an animated GIF picture from the browser.
 * [Microsoft Word](https://www.microsoft.com/en/microsoft-365/word) - Spelling, grammar, and intelligent suggestions to assist you across documents, email, and on the web.
 * [Log4brains](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website.
+* [flow-chart.io](https://flow-chart.io) - AI diagram generator that turns plain-language descriptions into fully editable architecture diagrams (C4, BPMN, ERD, cloud architecture) — for documenting system design and architecture decisions.
 * [Antidote](https://www.antidote.info) - The corrector analyses your text and flags any detections.
 * [LanguageTool](https://languagetool.org) - Open-source writing assistant, an alternative to Grammarly.
 * [HemingwayApp](https://hemingwayapp.com) - Hemingway App makes your writing bold and clear. Helps fix long & complex sentences.
