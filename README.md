@@ -230,6 +230,7 @@
 * [How to write technical blog posts](https://www.youtube.com/watch?v=YODPgBadj80)
 * [Technical Writing Portfolio](https://www.youtube.com/watch?v=68ddwfpXHrE)
 * [How to Document APIs Using Postman](https://youtu.be/d2WAKIKpKlE)
+* [ItsPaint](https://github.com/joshlin2201/itspaint) - Free open-source macOS app for marking up documentation screenshots with arrows, shapes, auto-numbered step badges, and pixelation for redacting.
 
 </details>
 
