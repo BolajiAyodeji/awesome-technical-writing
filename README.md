@@ -164,6 +164,7 @@
 * [Patina](https://github.com/devswha/patina) - Audits and rewrites AI-sounding technical writing while preserving meaning, claims, numbers, polarity, and causation.
 * [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert Excel, CSV, or pasted tables into Markdown locally in the browser.
 * [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagram rendering, QuickLook extension, and syntax highlighting for 190+ languages.
+* [Mermaid Online](https://mermaidonline.org) - Browser-based Mermaid editor with document and slide themes, and free PNG, SVG, or PDF export with no signup or watermark. Its AI turns text or screenshots into Mermaid, and architecture notes into interactive system maps.
 
 </details>
 
