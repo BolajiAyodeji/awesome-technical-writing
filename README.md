@@ -129,6 +129,7 @@
 * [Diátaxis Documentation System](https://diataxis.fr) - A systematic approach to creating better documentation.
 * [HackMD](https://hackmd.io) - Real-time collaboration on technical documentation in Markdown.
 * [Dropbox Paper](https://dropbox.com/paper) - A flexible workspace for collaborative document editing.
+* [Duplicate Word Finder](https://textbases.app/text-tools/duplicate-word-finder/) - Find repeated words in text to support proofreading and revision.
 * [Google Docs](https://docs.google.com) - Smart editing and styling tools to help you easily format text and paragraphs.
 * [Notion](https://notion.so) - The all-in-one workspace for your notes, tasks, wikis and databases.
 * [Notion AI](https://otion.so/product/ai) - Leverage the limitless power of AI in any Notion page, write faster and augment your creativity.
