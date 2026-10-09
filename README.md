@@ -149,6 +149,7 @@
 * [adoc Studio](https://adoc-studio.app) - adoc Studio is an integrated writing environment for structured texts using AsciiDoc.
 * [Crosspost](https://trycrosspost.com) - Crosspost helps you write, import and publish articles to multiple platforms like Medium, Ghost, Hashnode, Dev.to and more at once. Write once, publish everywhere.
 * [Heroshot](https://github.com/omachala/heroshot) - Screenshot automation for documentation with a visual element picker and theme-aware output.
+* [TypeFire Markdown Editor](https://typefire.ai/markdown-editor-online) - A free browser Markdown editor that formats as you type and exports to Markdown, HTML and PDF, with no sign-up.
 * [EkLine](https://ekline.io) - Documentation quality automation. Enforces style guides on PRs, validates links, flags outdated content, and helps draft new docs.
 * [Tablesmit](https://tablesmit.com) - A minimalist table builder for analytical writing. Create, format, and export structured tables for technical documentation. Open source and free.
 * [Slopless](https://github.com/seochecks-ai/slopless) - Deterministic textlint preset and CLI to flag AI-generated and padded English prose without calling an LLM.
