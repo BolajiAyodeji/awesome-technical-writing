@@ -165,6 +165,8 @@
 * [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert Excel, CSV, or pasted tables into Markdown locally in the browser.
 * [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagram rendering, QuickLook extension, and syntax highlighting for 190+ languages.
 
+* [Glim](https://github.com/NeoPanic/Glim) - Free Mac Markdown viewer with Mermaid diagrams, LaTeX formulas and basic source editing.
+
 </details>
 
 <details>
