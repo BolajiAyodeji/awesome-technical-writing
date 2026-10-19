@@ -164,6 +164,7 @@
 * [Patina](https://github.com/devswha/patina) - Audits and rewrites AI-sounding technical writing while preserving meaning, claims, numbers, polarity, and causation.
 * [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert Excel, CSV, or pasted tables into Markdown locally in the browser.
 * [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagram rendering, QuickLook extension, and syntax highlighting for 190+ languages.
+* [Ritemark](https://ritemark.app) - Free, open-source Markdown editor for Mac and Windows. Claude Code, Codex or OpenCode work directly in the Markdown files in your folder.
 
 </details>
 
