@@ -135,6 +135,7 @@
 * [Grammarly](https://grammarly.com) - a writing assistant that goes deeper than grammar to offer you comprehensive writing feedback.
 * [Canva](https://canva.com) - A graphic design platform that allows you to create social media graphics and other visual content.
 * [TinyPNG](https://tinypng.com) - Smart PNG and JPEG image compression.
+* [MangaTranslate](https://www.mangatranslate.com/) - Hosted OCR-assisted image/PDF translation for draft visual-document localization, with an image editor and limited daily web credits.
 * [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en) - The simplest way to take a full page screenshot of your current browser window.
 * [Awesome Screenshot: Screen Video Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) - Screen capture full-page screenshot and recorder for screencast.
 * [Readme Markdown Generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files.
