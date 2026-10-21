@@ -123,7 +123,8 @@
   
 </summary>
 
-* [Technical Writing Template](https://github.com/BolajiAyodeji/technical-writing-template) - A sample template with guidelines for writing technical articles.
+* [DocFacts](https://github.com/atmospherichitman/docfacts) - Free, open-source CLI and GitHub Action that checks technical documentation against a reference and flags unsupported commands, options, and settings.
+*  [Technical Writing Template](https://github.com/BolajiAyodeji/technical-writing-template) - A sample template with guidelines for writing technical articles.
 * [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) - A list of companies that have paid developer community writer programs.
 * [Who Pays Technical Writers?](https://whopaystechnicalwriters.com/?) - A curated collection of active publishers, publications, and agencies that pay fair rates for high-quality technical content.
 * [Diátaxis Documentation System](https://diataxis.fr) - A systematic approach to creating better documentation.
