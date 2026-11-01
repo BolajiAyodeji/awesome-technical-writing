@@ -164,6 +164,7 @@
 * [Patina](https://github.com/devswha/patina) - Audits and rewrites AI-sounding technical writing while preserving meaning, claims, numbers, polarity, and causation.
 * [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert Excel, CSV, or pasted tables into Markdown locally in the browser.
 * [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagram rendering, QuickLook extension, and syntax highlighting for 190+ languages.
+* [Screen Slinger](https://screenslinger.com) - Windows screenshot and annotation tool: scrolling capture, numbered steps, callouts, pixel-replacing redaction and OCR text grab. Paid (one-time), with a free trial.
 
 </details>
 
