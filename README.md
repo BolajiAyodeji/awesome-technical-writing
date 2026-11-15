@@ -132,6 +132,7 @@
 * [Google Docs](https://docs.google.com) - Smart editing and styling tools to help you easily format text and paragraphs.
 * [Notion](https://notion.so) - The all-in-one workspace for your notes, tasks, wikis and databases.
 * [Notion AI](https://otion.so/product/ai) - Leverage the limitless power of AI in any Notion page, write faster and augment your creativity.
+* [HumanPen](https://humanpen.net) - A document tool for rewriting, citation-format correction, condensation, and translation.
 * [Grammarly](https://grammarly.com) - a writing assistant that goes deeper than grammar to offer you comprehensive writing feedback.
 * [Canva](https://canva.com) - A graphic design platform that allows you to create social media graphics and other visual content.
 * [TinyPNG](https://tinypng.com) - Smart PNG and JPEG image compression.
