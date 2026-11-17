@@ -164,6 +164,7 @@
 * [Patina](https://github.com/devswha/patina) - Audits and rewrites AI-sounding technical writing while preserving meaning, claims, numbers, polarity, and causation.
 * [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert Excel, CSV, or pasted tables into Markdown locally in the browser.
 * [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagram rendering, QuickLook extension, and syntax highlighting for 190+ languages.
+* [GitHub Release Notes Generator](https://release-ripple-roadmap.lovable.app/tools/github-release-notes) - Free web tool that drafts release notes from the commits and merged pull requests between two releases or tags of a public GitHub repository.
 
 </details>
 
