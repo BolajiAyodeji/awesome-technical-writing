@@ -230,6 +230,7 @@
 * [How to write technical blog posts](https://www.youtube.com/watch?v=YODPgBadj80)
 * [Technical Writing Portfolio](https://www.youtube.com/watch?v=68ddwfpXHrE)
 * [How to Document APIs Using Postman](https://youtu.be/d2WAKIKpKlE)
+* [CiteReady /llms.txt Validator & Docs GEO Auditor](https://zcoldwater.github.io/citeready-cli/llms-txt-validator-2026.html) - Free browser-based `/llms.txt` Markdown linter, token estimator, and open-source MIT CLI/GitHub Action that verifies AI crawler `robots.txt` policies and Schema.org JSON-LD markup for technical documentation sites.
 
 </details>
 
