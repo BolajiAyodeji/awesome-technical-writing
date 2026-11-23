@@ -164,6 +164,7 @@
 * [Patina](https://github.com/devswha/patina) - Audits and rewrites AI-sounding technical writing while preserving meaning, claims, numbers, polarity, and causation.
 * [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert Excel, CSV, or pasted tables into Markdown locally in the browser.
 * [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagram rendering, QuickLook extension, and syntax highlighting for 190+ languages.
+* [CiteReady /llms.txt Validator & Docs GEO Auditor](https://zcoldwater.github.io/citeready-cli/llms-txt-validator-2026.html) - Free browser-based `/llms.txt` Markdown linter, token estimator, and open-source MIT CLI/GitHub Action that verifies AI crawler `robots.txt` policies and Schema.org JSON-LD markup for technical documentation sites.
 
 </details>
 
@@ -230,7 +231,6 @@
 * [How to write technical blog posts](https://www.youtube.com/watch?v=YODPgBadj80)
 * [Technical Writing Portfolio](https://www.youtube.com/watch?v=68ddwfpXHrE)
 * [How to Document APIs Using Postman](https://youtu.be/d2WAKIKpKlE)
-* [CiteReady /llms.txt Validator & Docs GEO Auditor](https://zcoldwater.github.io/citeready-cli/llms-txt-validator-2026.html) - Free browser-based `/llms.txt` Markdown linter, token estimator, and open-source MIT CLI/GitHub Action that verifies AI crawler `robots.txt` policies and Schema.org JSON-LD markup for technical documentation sites.
 
 </details>
 
