@@ -186,6 +186,7 @@
 * [How to Start a Software YouTube Channel](https://freecodecamp.org/news/how-to-start-a-software-youtube-channel)
 * [Starting a YouTube Channel as a Software Developer](https://claudiobernasconi.ch/2019/03/20/starting-a-youtube-channel-as-a-software-developer/0)
 * [How to Create a Programming YouTube Channel - Lessons From 5 Years and 1 Million Subscribers](https://freecodecamp.org/news/how-to-start-a-software-youtube-channel-video-course)
+* [How to Edit a Screen Recording for a Product Tutorial](https://valmera.io/blog/edit-screen-recording-into-product-tutorial#narrated-tutorial-check)
 * [Developers: The Why and How to Writing Technical Articles](https://freecodecamp.org/news/developers-the-why-and-how-to-writing-technical-articles-54e824789ef6)
 * [How to Improve the SEO of Your Devblog Articles](https://townhall.hashnode.com/how-to-improve-the-seo-of-your-devblog-articles-cjz3u8lk3003gavs1l071dzoz)
 * [How to Improve the SEO of Your Devblog](https://townhall.hashnode.com/how-to-improve-the-seo-of-your-devblog-cjz191c0e00380ks1nbtpwh8f)
