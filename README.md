@@ -178,6 +178,7 @@
 * [How to Create Great Content: A Step-by-Step Guide to Content Marketing That Delivers Real Results](https://inc.com/jeff-haden/how-to-create-great-content-a-step-by-step-guide-to-content-marketing-that-delivers-real-results.html)
 * [9 Tips to Become the Best Content Creator in Your Industry](https://weidert.com/blog/tips-to-make-you-the-best-content-creator-in-your-industry)
 * [Advice for Technical Writing](https://css-tricks.com/advice-for-technical-writing)
+* [AI Rewording Tool: Phrase and Sentence Guide](https://aihumanizeronline.com/ai-rewording-tool)
 * [Becoming a Technical Writer at Google](https://developers.google.com/tech-writing/becoming)
 * [15 Tips to Improve Your Technical Writing](https://thebestschools.org/magazine/technical-writing-tips)
 * [How to Become a Technical Writer: A Beginner’s Guide](https://www.instructionalsolutions.com/blog/become-a-technical-writer)
